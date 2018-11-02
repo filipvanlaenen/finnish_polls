@@ -10,14 +10,14 @@ Last result: **17.6%** (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 8.4–10.2% | 8.2–10.4% | 8.0–10.7% | 7.6–11.3% |
+| N/A | [Poll Average](average.html) | 8.9% | 7.5–10.0% | 7.1–10.3% | 6.8–10.6% | 6.3–11.2% |
 | [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 9.1% | 8.4–9.9% | 8.2–10.1% | 8.0–10.3% | 7.7–10.7% |
 | [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 9.3% | 8.4–10.4% | 8.1–10.7% | 7.9–11.0% | 7.5–11.5% |
-| [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 7.9% | N/A | N/A | N/A | N/A |
-| [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.7% | N/A | N/A | N/A | N/A |
-| [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 9.4% | N/A | N/A | N/A | N/A |
-| [13–25 August 2018](2018-08-25-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 8.0% | N/A | N/A | N/A | N/A |
-| [16 July–16 August 2018](2018-08-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 7.9% | N/A | N/A | N/A | N/A |
+| [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 6.0–10.3% |
+| [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.7% | 7.9–9.7% | 7.6–10.0% | 7.4–10.2% | 7.0–10.7% |
+| [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 9.4% | 8.5–10.4% | 8.2–10.7% | 8.0–11.0% | 7.6–11.5% |
+| [13–25 August 2018](2018-08-25-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 8.0% | 7.1–9.2% | 6.8–9.5% | 6.6–9.8% | 6.2–10.3% |
+| [16 July–16 August 2018](2018-08-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 7.9% | 7.0–8.9% | 6.7–9.2% | 6.6–9.5% | 6.2–9.9% |
 | [9 July–7 August 2018](2018-08-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8.7% | N/A | N/A | N/A | N/A |
 | [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 7.8% | N/A | N/A | N/A | N/A |
 | [6 June–3 July 2018](2018-07-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 10.3% | N/A | N/A | N/A | N/A |
@@ -45,13 +45,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.4% | 100% |  |
-| 7.5–8.5% | 15% | 99.6% |  |
-| 8.5–9.5% | 53% | 85% | Median |
-| 9.5–10.5% | 28% | 32% |  |
-| 10.5–11.5% | 4% | 4% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 1.3% | 100% |  |
+| 6.5–7.5% | 9% | 98.7% |  |
+| 7.5–8.5% | 25% | 89% |  |
+| 8.5–9.5% | 42% | 64% | Median |
+| 9.5–10.5% | 19% | 22% |  |
+| 10.5–11.5% | 3% | 3% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -68,13 +69,13 @@ Last result: **38** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–19 | 14–19 | 13–19 |
+| N/A | [Poll Average](average.html) | 18 | 14–21 | 14–21 | 14–21 | 13–21 |
 | [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16 | 14–17 | 14–19 | 14–19 | 13–19 |
-| [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
-| [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi |  |  |  |  |  |
-| [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
-| [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
-| [13–25 August 2018](2018-08-25-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi |  |  |  |  |  |
+| [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18 | 18 | 18 | 16–20 | 16–21 |
+| [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 21 | 18–21 | 18–21 | 18–21 | 10–21 |
+| [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 15 | 15 | 15 | 13–15 | 13–18 |
+| [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 19 | 19–21 | 19–22 | 19–22 | 14–23 |
+| [13–25 August 2018](2018-08-25-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 14 | 14 | 14 | 14 | 14 |
 | [16 July–16 August 2018](2018-08-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
 | [9 July–7 August 2018](2018-08-07-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
 | [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
@@ -105,16 +106,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 2% | 100% |  |
-| 14 | 45% | 98% |  |
-| 15 | 0% | 53% |  |
-| 16 | 3% | 53% | Median |
-| 17 | 41% | 50% |  |
-| 18 | 0.2% | 9% |  |
-| 19 | 9% | 9% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 0% | 99.7% |  |
+| 12 | 0% | 99.7% |  |
+| 13 | 0.7% | 99.6% |  |
+| 14 | 15% | 99.0% |  |
+| 15 | 0.1% | 84% |  |
+| 16 | 2% | 84% |  |
+| 17 | 14% | 82% |  |
+| 18 | 47% | 68% | Median |
+| 19 | 3% | 21% |  |
+| 20 | 0.9% | 18% |  |
+| 21 | 17% | 18% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
