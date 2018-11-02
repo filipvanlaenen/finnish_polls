@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the Suomen eduskunta</title>
+    <link>https://filipvanlaenen.github.io/finnish_polls</link>
+    <description>All Registered Polls for the Suomen eduskunta</description>
+    <pubDate>Fri, 02 Nov 2018 19:04:51 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 17 September–11 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2018-10-11-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 14.3–17.2%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 18.1–21.3%&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 8.0–10.3%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 20.4–23.7%&lt;/li&gt;&lt;li&gt;Vihreä liitto: 10.7–13.4%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 8.7–11.1%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 3.6–5.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 3.1–4.7%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 1.0–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-10-11-KantarTNS.png"
+        length="259103"
+        type="image/png"/>
+      <pubDate>Fri, 02 Nov 2018 19:04:51 +0100</pubDate>
+      <dc:date>2018-11-02T19:04:51.296742+01:00</dc:date>
+    </item>
+    <dc:date>2018-11-02T19:04:51.296742+01:00</dc:date>
+  </channel>
+</rss>
