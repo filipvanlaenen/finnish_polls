@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Suomen eduskunta</title>
     <link>https://filipvanlaenen.github.io/finnish_polls</link>
     <description>All Registered Polls for the Suomen eduskunta</description>
-    <pubDate>Sat, 03 Nov 2018 19:17:22 +0100</pubDate>
+    <pubDate>Sat, 03 Nov 2018 20:33:46 +0100</pubDate>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 12–30 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2018-10-30-Tietoykkönen.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-10-02-Taloustutkimus.png"
         length="276967"
         type="image/png"/>
-      <pubDate>Fri, 02 Nov 2018 19:14:46 +0100</pubDate>
-      <dc:date>2018-11-02T19:14:46.590006+01:00</dc:date>
+      <pubDate>Sat, 03 Nov 2018 20:19:04 +0100</pubDate>
+      <dc:date>2018-11-03T20:19:04.592298+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 14–27 September 2018 – Voting Intentions</title>
@@ -136,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-06-10-KantarTNS.png"
         length="263589"
         type="image/png"/>
-      <pubDate>Sat, 03 Nov 2018 19:17:22 +0100</pubDate>
-      <dc:date>2018-11-03T19:17:22.729301+01:00</dc:date>
+      <pubDate>Sat, 03 Nov 2018 19:36:33 +0100</pubDate>
+      <dc:date>2018-11-03T19:36:33.960908+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 2 May–5 June 2018 – Voting Intentions</title>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-05-31-Tietoykkönen.png"
         length="290785"
         type="image/png"/>
-      <pubDate>Fri, 02 Nov 2018 22:56:01 +0100</pubDate>
-      <dc:date>2018-11-02T22:56:01.876591+01:00</dc:date>
+      <pubDate>Sat, 03 Nov 2018 20:26:40 +0100</pubDate>
+      <dc:date>2018-11-03T20:26:40.268426+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 16 April–11 May 2018 – Voting Intentions</title>
@@ -176,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-05-02-Tietoykkönen.png"
         length="291291"
         type="image/png"/>
-      <pubDate>Sat, 03 Nov 2018 09:47:41 +0100</pubDate>
-      <dc:date>2018-11-03T09:47:41.873003+01:00</dc:date>
+      <pubDate>Sat, 03 Nov 2018 20:33:46 +0100</pubDate>
+      <dc:date>2018-11-03T20:33:46.690337+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 3–26 April 2018 – Voting Intentions</title>
@@ -196,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-04-12-KantarTNS.png"
         length="264800"
         type="image/png"/>
-      <pubDate>Fri, 02 Nov 2018 21:22:07 +0100</pubDate>
-      <dc:date>2018-11-02T21:22:07.030675+01:00</dc:date>
+      <pubDate>Sat, 03 Nov 2018 19:56:24 +0100</pubDate>
+      <dc:date>2018-11-03T19:56:24.777144+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 1–27 March 2018 – Voting Intentions</title>
@@ -289,6 +289,6 @@
       <pubDate>Sat, 03 Nov 2018 16:59:06 +0100</pubDate>
       <dc:date>2018-11-03T16:59:06.762836+01:00</dc:date>
     </item>
-    <dc:date>2018-11-03T19:17:22.729301+01:00</dc:date>
+    <dc:date>2018-11-03T20:33:46.690337+01:00</dc:date>
   </channel>
 </rss>
