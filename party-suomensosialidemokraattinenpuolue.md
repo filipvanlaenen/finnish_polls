@@ -67,15 +67,15 @@ Last result: **34** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48 | 47–53 | 46–55 | 45–55 | 43–58 |
+| N/A | [Poll Average](average.html) | 48 | 47–53 | 46–53 | 46–55 | 43–58 |
 | [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 48 | 47–53 | 46–53 | 46–57 | 42–59 |
 | [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 47–50 | 46–52 | 46–53 | 45–56 |
-| [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 49 | 46–55 | 45–55 | 44–55 | 43–58 |
+| [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 49 | 46–53 | 46–55 | 45–56 | 44–58 |
 | [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 50 | 47–55 | 46–55 | 45–57 | 43–60 |
 | [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 48 | 46–52 | 44–53 | 43–55 | 42–56 |
 | [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 46 | 44–48 | 42–50 | 41–50 | 39–51 |
 | [13–25 August 2018](2018-08-25-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 48 | 45–54 | 44–55 | 43–55 | 41–57 |
-| [16 July–16 August 2018](2018-08-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 49 | 44–53 | 43–54 | 43–54 | 41–55 |
+| [16 July–16 August 2018](2018-08-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 45–53 | 44–53 | 43–55 | 42–56 |
 | [9 July–7 August 2018](2018-08-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 46 | 45–49 | 44–50 | 44–52 | 42–52 |
 | [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 47–50 | 47–50 | 47–50 | 46–54 |
 | [6 June–3 July 2018](2018-07-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 45 | 43–48 | 43–48 | 42–48 | 39–49 |
@@ -83,7 +83,7 @@ Last result: **34** seats (General Election of 19 April 2015)
 | [14 May–10 June 2018](2018-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 48 | 46–52 | 46–52 | 45–52 | 43–54 |
 | [2 May–5 June 2018](2018-06-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 45 | 41–47 | 41–47 | 41–48 | 40–49 |
 | [18–31 May 2018](2018-05-31-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 47 | 45–51 | 44–53 | 43–56 | 40–56 |
-| [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 43–50 | 43–51 | 43–51 | 41–52 |
+| [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 44–50 | 43–51 | 43–51 | 42–52 |
 | [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 47 | 46–52 | 46–53 | 45–55 | 42–57 |
 | [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 46 | 43–48 | 39–48 | 38–48 | 37–50 |
 | [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 46–51 | 46–51 | 46–52 | 44–55 |
@@ -114,23 +114,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0.2% | 99.9% |  |
-| 43 | 0.7% | 99.8% |  |
-| 44 | 0.5% | 99.1% |  |
-| 45 | 2% | 98.6% |  |
-| 46 | 4% | 96% |  |
-| 47 | 26% | 92% |  |
-| 48 | 23% | 66% | Median |
-| 49 | 15% | 43% |  |
-| 50 | 8% | 28% |  |
-| 51 | 7% | 20% |  |
-| 52 | 1.5% | 13% |  |
-| 53 | 6% | 12% |  |
-| 54 | 0.3% | 6% |  |
-| 55 | 3% | 5% |  |
+| 43 | 0.3% | 99.8% |  |
+| 44 | 0.4% | 99.4% |  |
+| 45 | 1.4% | 99.1% |  |
+| 46 | 7% | 98% |  |
+| 47 | 27% | 91% |  |
+| 48 | 27% | 64% | Median |
+| 49 | 8% | 37% |  |
+| 50 | 7% | 29% |  |
+| 51 | 5% | 22% |  |
+| 52 | 3% | 17% |  |
+| 53 | 10% | 14% |  |
+| 54 | 0.5% | 4% |  |
+| 55 | 1.2% | 4% |  |
 | 56 | 0.5% | 2% |  |
-| 57 | 0.5% | 2% |  |
-| 58 | 0.9% | 1.3% |  |
+| 57 | 0.8% | 2% |  |
+| 58 | 0.6% | 1.0% |  |
 | 59 | 0.3% | 0.4% |  |
-| 60 | 0% | 0% |  |
+| 60 | 0.1% | 0.1% |  |
+| 61 | 0% | 0% |  |
 
 
