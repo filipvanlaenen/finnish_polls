@@ -63,8 +63,8 @@ Last result: **5** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 3–6 | 2–6 | 1–6 |
-| [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 3–6 | 2–6 | 2–6 | 1–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 2–6 | 2–6 | 1–6 |
+| [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 3–6 | 2–6 | 1–6 | 0–7 |
 | [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 6 | 5–6 | 4–6 | 2–6 | 1–6 |
 | [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 6 | 5–6 | 5–6 | 4–6 | 2–6 |
 | [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 5–6 | 3–6 | 2–6 | 0–8 |
@@ -85,7 +85,7 @@ Last result: **5** seats (General Election of 19 April 2015)
 | [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 6 | 2–6 | 2–6 | 2–6 | 1–6 |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 1–6 | 1–6 | 1–6 | 0–6 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 4–6 | 3–6 | 2–6 | 1–8 |
-| [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 1–6 | 0–6 | 0–6 | 0–6 |
+| [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 1–6 | 1–6 | 0–6 | 0–6 |
 | [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–6 | 1–6 | 1–6 | 0–6 |
 | [14–26 February 2018](2018-02-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 6 | 5–6 | 3–6 | 0–7 |
 | [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 5 | 2–6 | 1–6 | 1–6 | 0–6 |
@@ -101,16 +101,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 0.5% | 99.9% |  |
-| 2 | 3% | 99.4% |  |
-| 3 | 3% | 96% |  |
-| 4 | 2% | 93% |  |
-| 5 | 21% | 91% | Last Result |
-| 6 | 70% | 70% | Median |
-| 7 | 0.2% | 0.4% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0.1% |  |
+| 0 | 0.3% | 100% |  |
+| 1 | 1.1% | 99.7% |  |
+| 2 | 4% | 98.7% |  |
+| 3 | 2% | 95% |  |
+| 4 | 2% | 92% |  |
+| 5 | 14% | 90% | Last Result |
+| 6 | 75% | 76% | Median |
+| 7 | 0.3% | 0.5% |  |
+| 8 | 0.1% | 0.2% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 
