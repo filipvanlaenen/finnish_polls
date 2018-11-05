@@ -78,19 +78,19 @@ Last result: **9** seats (General Election of 19 April 2015)
 | [6–26 June 2018](2018-06-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 8 | 7–11 | 7–11 | 7–11 | 6–13 |
 | [14 May–10 June 2018](2018-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 10 | 8–11 | 7–11 | 7–11 | 7–11 |
 | [2 May–5 June 2018](2018-06-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
-| [18–31 May 2018](2018-05-31-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 10 | 8–11 | 7–11 | 7–11 | 6–13 |
+| [18–31 May 2018](2018-05-31-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 10 | 8–11 | 7–12 | 7–13 | 6–14 |
 | [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
-| [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 8 | 8–10 | 8–11 | 7–11 | 6–12 |
-| [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7 | 6–10 | 5–10 | 4–10 | 4–10 |
+| [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 9 | 7–11 | 7–11 | 6–12 | 6–13 |
+| [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7 | 6–8 | 5–9 | 4–10 | 4–10 |
 | [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8 | 7–8 | 6–9 | 6–10 | 6–11 |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7 | 5–7 | 4–8 | 4–8 | 4–10 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 8 | 8–11 | 7–11 | 7–11 | 6–13 |
-| [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8 | 7–8 | 7–9 | 6–10 | 6–11 |
+| [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4–7 | 3–7 | 3–7 | 3–8 |
 | [14–26 February 2018](2018-02-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 8 | 8–11 | 8–11 | 7–12 | 7–14 |
 | [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
 | [28 December 2017–6 February 2018](2018-02-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 10 | 7–10 | 7–11 | 7–11 | 7–11 |
-| [19–29 January 2018](2018-01-29-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 8 | 7–11 | 7–11 | 6–11 | 6–13 |
+| [19–29 January 2018](2018-01-29-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 9 | 7–11 | 7–11 | 7–11 | 6–13 |
 | [12 December 2017–18 January 2018](2018-01-18-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
 
 ### Probability Mass Function
