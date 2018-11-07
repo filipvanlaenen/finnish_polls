@@ -72,8 +72,8 @@ Last result: **5** seats (General Election of 19 April 2015)
 | [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 5 | 1–6 | 1–6 | 0–6 | 0–6 |
 | [13–25 August 2018](2018-08-25-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 2–6 | 2–6 | 1–6 | 0–7 |
 | [16 July–16 August 2018](2018-08-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 6 | 5–6 | 3–6 | 2–6 | 2–7 |
-| [9 July–7 August 2018](2018-08-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 6 | 4–6 | 4–6 | 3–6 | 1–6 |
-| [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 6 | 6 | 6 | 6 | 6 |
+| [9 July–7 August 2018](2018-08-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 6 | 5–6 | 3–6 | 3–6 | 1–6 |
+| [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 6 | 6 | 6 | 5–6 | 3–7 |
 | [6 June–3 July 2018](2018-07-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 6 | 2–6 | 2–6 | 2–6 | 1–6 |
 | [6–26 June 2018](2018-06-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 4–6 | 3–6 | 2–6 | 1–8 |
 | [14 May–10 June 2018](2018-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 6 | 4–6 | 4–6 | 4–6 | 2–6 |
@@ -83,7 +83,7 @@ Last result: **5** seats (General Election of 19 April 2015)
 | [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 5–6 | 3–6 | 2–6 | 1–8 |
 | [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 5 | 1–6 | 0–6 | 0–6 | 0–6 |
 | [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 6 | 2–6 | 2–6 | 2–6 | 1–6 |
-| [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 1–6 | 1–6 | 1–6 | 0–6 |
+| [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 5 | 1–6 | 0–6 | 0–6 | 0–6 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 5–6 | 3–6 | 2–6 | 1–8 |
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–6 | 1–6 | 0–6 | 0–6 |
 | [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–6 | 1–6 | 1–6 | 0–6 |
