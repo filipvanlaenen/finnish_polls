@@ -86,7 +86,7 @@ Last result: **37** seats (General Election of 19 April 2015)
 | [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 45 | 41–48 | 40–49 | 39–49 | 38–50 |
 | [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 41 | 38–46 | 37–48 | 37–49 | 36–50 |
 | [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 41 | 39–46 | 39–47 | 38–48 | 37–50 |
-| [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 44 | 42–48 | 41–49 | 40–49 | 38–49 |
+| [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 45 | 41–49 | 40–49 | 39–49 | 38–50 |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 47 | 42–50 | 41–50 | 40–51 | 39–53 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 43 | 39–49 | 38–49 | 37–49 | 36–50 |
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 42–49 | 42–50 | 41–50 | 40–51 |
@@ -95,7 +95,7 @@ Last result: **37** seats (General Election of 19 April 2015)
 | [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 48 | 44–50 | 42–51 | 42–51 | 40–53 |
 | [28 December 2017–6 February 2018](2018-02-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 47 | 42–47 | 40–48 | 40–49 | 40–50 |
 | [19–29 January 2018](2018-01-29-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 47 | 40–50 | 39–50 | 39–51 | 37–52 |
-| [12 December 2017–18 January 2018](2018-01-18-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 48 | 47–51 | 46–51 | 45–51 | 42–52 |
+| [12 December 2017–18 January 2018](2018-01-18-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 48 | 46–51 | 44–51 | 42–51 | 41–53 |
 
 ### Probability Mass Function
 
