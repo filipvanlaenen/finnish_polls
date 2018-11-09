@@ -68,10 +68,10 @@ Last result: **49** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 34–43 | 33–44 | 31–45 | 30–46 |
-| [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 35 | 32–40 | 31–41 | 30–41 | 29–43 |
-| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–38 | 33–41 | 33–41 | 32–42 |
-| [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 41 | 35–44 | 35–45 | 34–45 | 34–47 |
+| N/A | [Poll Average](average.html) | 36 | 34–43 | 33–43 | 32–44 | 29–46 |
+| [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 36 | 33–41 | 32–41 | 30–41 | 29–42 |
+| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 34 | 33–41 | 33–41 | 33–41 | 33–43 |
+| [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 42 | 36–44 | 35–45 | 35–46 | 34–47 |
 | [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 35 | 33–40 | 32–41 | 31–41 | 29–44 |
 | [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–39 | 33–41 | 32–42 | 31–43 |
 | [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 40–45 | 39–45 | 36–46 | 35–48 |
@@ -87,7 +87,7 @@ Last result: **49** seats (General Election of 19 April 2015)
 | [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–39 | 34–41 | 33–42 | 33–42 |
 | [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 36 | 34–42 | 33–42 | 33–43 | 31–44 |
 | [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 38 | 35–43 | 35–44 | 34–44 | 34–45 |
-| [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–39 | 34–39 | 34–40 | 32–42 |
+| [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–38 | 34–39 | 34–40 | 32–42 |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 36 | 34–40 | 33–41 | 33–42 | 33–44 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 35 | 34–40 | 34–42 | 33–42 | 32–44 |
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–39 | 34–39 | 34–40 | 33–43 |
@@ -107,26 +107,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
-| 29 | 0.4% | 99.9% |  |
-| 30 | 0.4% | 99.5% |  |
-| 31 | 2% | 99.1% |  |
-| 32 | 2% | 97% |  |
-| 33 | 5% | 95% |  |
-| 34 | 17% | 90% |  |
-| 35 | 14% | 73% |  |
-| 36 | 12% | 59% | Median |
-| 37 | 9% | 47% |  |
-| 38 | 8% | 38% |  |
-| 39 | 3% | 31% |  |
-| 40 | 5% | 28% |  |
-| 41 | 7% | 23% |  |
-| 42 | 5% | 16% |  |
-| 43 | 5% | 10% |  |
-| 44 | 2% | 5% |  |
-| 45 | 2% | 3% |  |
-| 46 | 0.3% | 0.6% |  |
-| 47 | 0.2% | 0.3% |  |
-| 48 | 0% | 0% |  |
+| 29 | 0.6% | 99.9% |  |
+| 30 | 0.1% | 99.2% |  |
+| 31 | 0.5% | 99.1% |  |
+| 32 | 2% | 98.6% |  |
+| 33 | 5% | 97% |  |
+| 34 | 26% | 92% |  |
+| 35 | 8% | 66% |  |
+| 36 | 10% | 58% | Median |
+| 37 | 3% | 48% |  |
+| 38 | 6% | 45% |  |
+| 39 | 2% | 39% |  |
+| 40 | 6% | 37% |  |
+| 41 | 12% | 31% |  |
+| 42 | 2% | 19% |  |
+| 43 | 12% | 17% |  |
+| 44 | 3% | 5% |  |
+| 45 | 1.1% | 2% |  |
+| 46 | 0.7% | 1.1% |  |
+| 47 | 0.3% | 0.4% |  |
+| 48 | 0% | 0.1% |  |
 | 49 | 0% | 0% | Last Result |
 
 

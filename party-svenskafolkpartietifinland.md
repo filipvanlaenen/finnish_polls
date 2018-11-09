@@ -63,10 +63,10 @@ Last result: **9** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 5–11 | 4–11 |
-| [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 8 | 6–10 | 6–11 | 6–11 | 4–12 |
-| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8 | 7–10 | 7–10 | 7–11 | 6–11 |
-| [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7 | 6–8 | 5–8 | 4–9 | 4–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 5–11 | 4–11 |
+| [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 9 | 7–10 | 7–10 | 6–11 | 5–11 |
+| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8 | 7–9 | 7–10 | 7–11 | 6–11 |
+| [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7 | 6–8 | 4–9 | 4–9 | 4–10 |
 | [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 9 | 6–11 | 6–11 | 6–11 | 4–13 |
 | [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
 | [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7 | 7–10 | 7–10 | 7–11 | 6–11 |
@@ -102,15 +102,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 0.8% | 98% |  |
-| 6 | 11% | 97% |  |
-| 7 | 29% | 87% |  |
-| 8 | 33% | 57% | Median |
-| 9 | 11% | 24% | Last Result |
-| 10 | 10% | 14% |  |
+| 5 | 0.5% | 98% |  |
+| 6 | 5% | 97% |  |
+| 7 | 33% | 92% |  |
+| 8 | 32% | 59% | Median |
+| 9 | 15% | 27% | Last Result |
+| 10 | 9% | 12% |  |
 | 11 | 3% | 3% |  |
-| 12 | 0.2% | 0.3% |  |
-| 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 

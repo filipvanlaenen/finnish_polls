@@ -67,10 +67,10 @@ Last result: **34** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49 | 46–53 | 46–54 | 45–56 | 43–59 |
-| [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 49 | 46–54 | 45–56 | 44–58 | 42–59 |
-| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 48 | 47–52 | 46–53 | 46–54 | 44–56 |
-| [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 49 | 46–53 | 46–55 | 45–56 | 44–58 |
+| N/A | [Poll Average](average.html) | 48 | 47–53 | 46–55 | 45–55 | 43–58 |
+| [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 48 | 47–53 | 46–53 | 46–57 | 42–59 |
+| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 47–50 | 46–52 | 46–53 | 45–56 |
+| [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 49 | 46–55 | 45–55 | 44–55 | 43–58 |
 | [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 50 | 47–55 | 46–55 | 45–57 | 43–60 |
 | [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 45–52 | 44–52 | 43–52 | 42–56 |
 | [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 46 | 44–48 | 42–50 | 41–50 | 39–51 |
@@ -86,7 +86,7 @@ Last result: **34** seats (General Election of 19 April 2015)
 | [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 44–50 | 43–51 | 43–51 | 42–52 |
 | [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 47 | 46–53 | 46–54 | 44–56 | 41–59 |
 | [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 46 | 43–47 | 41–48 | 38–48 | 38–50 |
-| [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 45–51 | 45–51 | 44–52 | 42–53 |
+| [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 45–50 | 45–51 | 43–52 | 42–53 |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 45 | 41–47 | 40–48 | 39–49 | 38–51 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 47 | 44–52 | 44–52 | 43–53 | 40–56 |
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 44–48 | 43–49 | 42–50 | 40–51 |
@@ -114,25 +114,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0.2% | 99.9% |  |
-| 43 | 0.6% | 99.7% |  |
-| 44 | 0.6% | 99.2% |  |
+| 43 | 0.7% | 99.8% |  |
+| 44 | 0.5% | 99.1% |  |
 | 45 | 2% | 98.6% |  |
-| 46 | 9% | 96% |  |
-| 47 | 20% | 88% |  |
-| 48 | 17% | 67% |  |
-| 49 | 13% | 50% | Median |
-| 50 | 9% | 37% |  |
-| 51 | 8% | 28% |  |
-| 52 | 6% | 20% |  |
-| 53 | 7% | 14% |  |
-| 54 | 2% | 7% |  |
-| 55 | 2% | 5% |  |
-| 56 | 0.7% | 3% |  |
-| 57 | 0.9% | 2% |  |
-| 58 | 0.7% | 1.3% |  |
-| 59 | 0.5% | 0.6% |  |
-| 60 | 0.1% | 0.1% |  |
-| 61 | 0% | 0.1% |  |
-| 62 | 0% | 0% |  |
+| 46 | 4% | 96% |  |
+| 47 | 26% | 92% |  |
+| 48 | 23% | 66% | Median |
+| 49 | 15% | 43% |  |
+| 50 | 8% | 28% |  |
+| 51 | 7% | 20% |  |
+| 52 | 1.5% | 13% |  |
+| 53 | 6% | 12% |  |
+| 54 | 0.3% | 6% |  |
+| 55 | 3% | 5% |  |
+| 56 | 0.5% | 2% |  |
+| 57 | 0.5% | 2% |  |
+| 58 | 0.9% | 1.3% |  |
+| 59 | 0.3% | 0.4% |  |
+| 60 | 0% | 0% |  |
 
 
