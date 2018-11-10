@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Suomen eduskunta</title>
     <link>https://filipvanlaenen.github.io/finnish_polls</link>
     <description>All Registered Polls for the Suomen eduskunta</description>
-    <pubDate>Fri, 09 Nov 2018 19:20:12 +0100</pubDate>
+    <pubDate>Sat, 10 Nov 2018 11:07:39 +0100</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 3 October–6 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2018-11-06-Taloustutkimus.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-11-06-Taloustutkimus.png"
         length="263682"
         type="image/png"/>
-      <pubDate>Fri, 09 Nov 2018 19:20:12 +0100</pubDate>
-      <dc:date>2018-11-09T19:20:12.971632+01:00</dc:date>
+      <pubDate>Sat, 10 Nov 2018 11:07:39 +0100</pubDate>
+      <dc:date>2018-11-10T11:07:39.565642+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 12–30 October 2018 – Seat Projections for the Parties</title>
@@ -50,14 +50,34 @@
       <dc:date>2018-11-09T18:14:29.929964+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 17 September–11 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2018-10-11-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 33–41 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 38–48 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 14–21 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 46–54 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto: 19–26 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 16–22 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 7–11 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 2–6 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-10-11-KantarTNS-seats.png"
+        length="195745"
+        type="image/png"/>
+      <pubDate>Fri, 09 Nov 2018 22:46:36 +0100</pubDate>
+      <dc:date>2018-11-09T22:46:36.827532+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 17 September–11 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2018-10-11-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-10-11-KantarTNS-coalitions-seats.png"
+        length="201701"
+        type="image/png"/>
+      <pubDate>Fri, 09 Nov 2018 22:46:36 +0100</pubDate>
+      <dc:date>2018-11-09T22:46:36.827532+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 17 September–11 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2018-10-11-KantarTNS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 14.3–17.2%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 18.1–21.3%&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 8.0–10.3%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 20.4–23.7%&lt;/li&gt;&lt;li&gt;Vihreä liitto: 10.7–13.4%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 8.7–11.1%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 3.6–5.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 3.1–4.7%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 1.0–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-10-11-KantarTNS.png"
         length="260934"
         type="image/png"/>
-      <pubDate>Fri, 09 Nov 2018 19:05:04 +0100</pubDate>
-      <dc:date>2018-11-09T19:05:04.548994+01:00</dc:date>
+      <pubDate>Fri, 09 Nov 2018 22:46:36 +0100</pubDate>
+      <dc:date>2018-11-09T22:46:36.827532+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 10 September–2 October 2018 – Seat Projections for the Parties</title>
@@ -559,6 +579,6 @@
       <pubDate>Thu, 08 Nov 2018 17:19:45 +0100</pubDate>
       <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
     </item>
-    <dc:date>2018-11-09T19:20:12.971632+01:00</dc:date>
+    <dc:date>2018-11-10T11:07:39.565642+01:00</dc:date>
   </channel>
 </rss>
