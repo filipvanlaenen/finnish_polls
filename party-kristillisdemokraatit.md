@@ -88,7 +88,7 @@ Last result: **5** seats (General Election of 19 April 2015)
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 5 | 1–6 | 0–6 | 0–6 | 0–6 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 5–6 | 3–6 | 2–6 | 1–8 |
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–6 | 1–6 | 0–6 | 0–6 |
-| [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–6 | 1–6 | 1–6 | 0–6 |
+| [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 5 | 1–6 | 1–6 | 0–6 | 0–6 |
 | [14–26 February 2018](2018-02-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 5–6 | 4–6 | 2–6 | 0–8 |
 | [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 5 | 2–6 | 2–6 | 1–6 | 0–6 |
 | [28 December 2017–6 February 2018](2018-02-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 5 | 0–5 | 0–6 | 0–6 | 0–6 |

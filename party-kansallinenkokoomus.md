@@ -74,7 +74,7 @@ Last result: **37** seats (General Election of 19 April 2015)
 | [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 39 | 37–42 | 37–43 | 36–44 | 32–47 |
 | [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 40 | 38–49 | 38–49 | 38–49 | 36–50 |
 | [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 42 | 38–47 | 37–48 | 37–48 | 37–49 |
-| [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 38–45 | 38–45 | 37–45 | 36–48 |
+| [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 38–43 | 38–45 | 37–46 | 36–49 |
 | [13–25 August 2018](2018-08-25-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 42 | 38–48 | 38–49 | 37–49 | 36–50 |
 | [16 July–16 August 2018](2018-08-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 43 | 39–48 | 38–49 | 37–49 | 37–50 |
 | [9 July–7 August 2018](2018-08-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 41 | 39–46 | 38–48 | 38–48 | 38–48 |
@@ -91,7 +91,7 @@ Last result: **37** seats (General Election of 19 April 2015)
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 47 | 42–50 | 41–50 | 40–51 | 39–53 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 43 | 39–49 | 38–49 | 37–49 | 36–50 |
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 42–49 | 42–50 | 41–50 | 40–51 |
-| [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 41 | 40–47 | 39–48 | 39–48 | 38–50 |
+| [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 42 | 40–47 | 39–49 | 38–49 | 37–50 |
 | [14–26 February 2018](2018-02-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 47 | 41–49 | 39–50 | 39–50 | 37–54 |
 | [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 48 | 44–50 | 42–51 | 42–51 | 40–53 |
 | [28 December 2017–6 February 2018](2018-02-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 47 | 42–47 | 40–48 | 40–49 | 40–50 |
