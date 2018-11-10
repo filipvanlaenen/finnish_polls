@@ -273,6 +273,9 @@
 | Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Vihreä liitto – Kristillisdemokraatit – Svenska folkpartiet i Finland | 100 | 127 | 100% | 125–132 | 124–133 | 123–133 | 121–135 |
 | Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Kristillisdemokraatit – Svenska folkpartiet i Finland | 85 | 97 | 15% | 94–103 | 94–104 | 94–104 | 90–108 |
 | Kansallinen Kokoomus – Suomen Keskusta – Perussuomalaiset | 124 | 98 | 8% | 94–99 | 93–101 | 93–103 | 91–105 |
+| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland | 70 | 99 | 8% | 95–100 | 94–102 | 92–103 | 89–106 |
+| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto | 61 | 95 | 0.7% | 89–96 | 88–96 | 87–98 | 82–101 |
+| Kansallinen Kokoomus – Suomen Keskusta – Kristillisdemokraatit – Svenska folkpartiet i Finland | 100 | 90 | 0.7% | 87–93 | 85–96 | 84–97 | 81–102 |
 | Kansallinen Kokoomus – Suomen Keskusta – Sininen tulevaisuus | 86 | 83 | 0% | 78–85 | 77–85 | 77–88 | 74–90 |
 
 ### Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Vihreä liitto – Vasemmistoliitto – Kristillisdemokraatit – Svenska folkpartiet i Finland
@@ -447,6 +450,132 @@
 | 122 | 0% | 0% |  |
 | 123 | 0% | 0% |  |
 | 124 | 0% | 0% | Last Result |
+
+### Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland
+
+![Graph with seats probability mass function not yet produced](2018-02-28-Taloustutkimus-coalitions-seats-pmf-sdp–vihr–vas–sfp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 70 | 0% | 100% | Last Result |
+| 71 | 0% | 100% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0% | 100% |  |
+| 75 | 0% | 100% |  |
+| 76 | 0% | 100% |  |
+| 77 | 0% | 100% |  |
+| 78 | 0% | 100% |  |
+| 79 | 0% | 100% |  |
+| 80 | 0% | 100% |  |
+| 81 | 0% | 100% |  |
+| 82 | 0% | 100% |  |
+| 83 | 0% | 100% |  |
+| 84 | 0% | 100% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0% | 100% |  |
+| 87 | 0.2% | 100% |  |
+| 88 | 0.1% | 99.8% |  |
+| 89 | 0.6% | 99.7% |  |
+| 90 | 0.2% | 99.1% |  |
+| 91 | 0.9% | 98.8% |  |
+| 92 | 0.6% | 98% |  |
+| 93 | 2% | 97% |  |
+| 94 | 2% | 95% |  |
+| 95 | 8% | 94% |  |
+| 96 | 5% | 85% |  |
+| 97 | 9% | 81% |  |
+| 98 | 10% | 72% | Median |
+| 99 | 33% | 62% |  |
+| 100 | 21% | 29% |  |
+| 101 | 2% | 8% | Majority |
+| 102 | 3% | 6% |  |
+| 103 | 2% | 3% |  |
+| 104 | 0.2% | 1.0% |  |
+| 105 | 0.3% | 0.8% |  |
+| 106 | 0.5% | 0.5% |  |
+| 107 | 0.1% | 0.1% |  |
+| 108 | 0% | 0% |  |
+
+### Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto
+
+![Graph with seats probability mass function not yet produced](2018-02-28-Taloustutkimus-coalitions-seats-pmf-sdp–vihr–vas.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 61 | 0% | 100% | Last Result |
+| 62 | 0% | 100% |  |
+| 63 | 0% | 100% |  |
+| 64 | 0% | 100% |  |
+| 65 | 0% | 100% |  |
+| 66 | 0% | 100% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0% | 100% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0% | 100% |  |
+| 75 | 0% | 100% |  |
+| 76 | 0% | 100% |  |
+| 77 | 0% | 100% |  |
+| 78 | 0% | 100% |  |
+| 79 | 0% | 100% |  |
+| 80 | 0% | 100% |  |
+| 81 | 0% | 100% |  |
+| 82 | 0.5% | 100% |  |
+| 83 | 0.2% | 99.5% |  |
+| 84 | 0.2% | 99.3% |  |
+| 85 | 0.3% | 99.1% |  |
+| 86 | 1.2% | 98.8% |  |
+| 87 | 0.4% | 98% |  |
+| 88 | 3% | 97% |  |
+| 89 | 8% | 94% |  |
+| 90 | 3% | 86% |  |
+| 91 | 2% | 83% |  |
+| 92 | 8% | 81% |  |
+| 93 | 2% | 73% |  |
+| 94 | 12% | 71% | Median |
+| 95 | 49% | 59% |  |
+| 96 | 5% | 10% |  |
+| 97 | 2% | 5% |  |
+| 98 | 1.2% | 3% |  |
+| 99 | 0.4% | 2% |  |
+| 100 | 0.6% | 1.3% |  |
+| 101 | 0.3% | 0.7% | Majority |
+| 102 | 0.3% | 0.4% |  |
+| 103 | 0% | 0% |  |
+
+### Kansallinen Kokoomus – Suomen Keskusta – Kristillisdemokraatit – Svenska folkpartiet i Finland
+
+![Graph with seats probability mass function not yet produced](2018-02-28-Taloustutkimus-coalitions-seats-pmf-kok–kesk–kd–sfp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 81 | 0.5% | 100% |  |
+| 82 | 0.1% | 99.4% |  |
+| 83 | 0.4% | 99.3% |  |
+| 84 | 2% | 98.9% |  |
+| 85 | 3% | 97% |  |
+| 86 | 4% | 94% | Median |
+| 87 | 2% | 90% |  |
+| 88 | 0.7% | 88% |  |
+| 89 | 9% | 87% |  |
+| 90 | 48% | 79% |  |
+| 91 | 12% | 30% |  |
+| 92 | 7% | 18% |  |
+| 93 | 1.3% | 11% |  |
+| 94 | 2% | 10% |  |
+| 95 | 2% | 8% |  |
+| 96 | 3% | 6% |  |
+| 97 | 0.5% | 3% |  |
+| 98 | 0.4% | 2% |  |
+| 99 | 0.6% | 2% |  |
+| 100 | 0.5% | 1.1% | Last Result |
+| 101 | 0% | 0.7% | Majority |
+| 102 | 0.6% | 0.7% |  |
+| 103 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus – Suomen Keskusta – Sininen tulevaisuus
 
