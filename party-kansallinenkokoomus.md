@@ -52,7 +52,7 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 7% | 99.1% | Last Result |
 | 18.5–19.5% | 28% | 92% |  |
 | 19.5–20.5% | 38% | 64% | Median |
-| 20.5–21.5% | 21% | 27% |  |
+| 20.5–21.5% | 21% | 26% |  |
 | 21.5–22.5% | 5% | 6% |  |
 | 22.5–23.5% | 0.7% | 0.7% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
@@ -67,10 +67,10 @@ Last result: **37** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42 | 38–47 | 38–49 | 37–49 | 37–50 |
-| [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 43 | 39–47 | 38–48 | 37–49 | 37–50 |
+| [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 43 | 41–47 | 39–47 | 39–49 | 38–49 |
 | [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 43 | 38–48 | 37–49 | 37–50 | 36–50 |
-| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 42 | 39–44 | 38–47 | 38–48 | 37–49 |
+| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 42 | 39–47 | 38–47 | 38–48 | 37–49 |
 | [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 39 | 37–42 | 37–43 | 36–44 | 32–47 |
 | [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 40 | 38–49 | 38–49 | 38–49 | 36–50 |
 | [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 42 | 38–47 | 37–48 | 37–48 | 37–49 |
@@ -106,24 +106,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0.1% | 100% |  |
+| 35 | 0% | 100% |  |
 | 36 | 0.2% | 99.9% |  |
-| 37 | 4% | 99.7% | Last Result |
-| 38 | 7% | 96% |  |
-| 39 | 11% | 89% |  |
-| 40 | 11% | 77% |  |
-| 41 | 9% | 67% |  |
-| 42 | 8% | 58% | Median |
-| 43 | 11% | 50% |  |
-| 44 | 17% | 38% |  |
-| 45 | 3% | 22% |  |
-| 46 | 4% | 18% |  |
-| 47 | 5% | 14% |  |
-| 48 | 4% | 10% |  |
-| 49 | 4% | 6% |  |
-| 50 | 1.1% | 1.3% |  |
-| 51 | 0.2% | 0.2% |  |
-| 52 | 0.1% | 0.1% |  |
+| 37 | 3% | 99.8% | Last Result |
+| 38 | 5% | 97% |  |
+| 39 | 9% | 92% |  |
+| 40 | 8% | 83% |  |
+| 41 | 12% | 76% |  |
+| 42 | 10% | 63% |  |
+| 43 | 13% | 53% | Median |
+| 44 | 15% | 40% |  |
+| 45 | 3% | 25% |  |
+| 46 | 3% | 23% |  |
+| 47 | 12% | 20% |  |
+| 48 | 3% | 8% |  |
+| 49 | 4% | 5% |  |
+| 50 | 0.7% | 0.9% |  |
+| 51 | 0.1% | 0.2% |  |
+| 52 | 0% | 0.1% |  |
 | 53 | 0% | 0% |  |
 
 

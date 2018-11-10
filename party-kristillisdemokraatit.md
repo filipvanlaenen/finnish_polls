@@ -49,8 +49,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 35% | 99.7% |  |
-| 3.5–4.5% | 59% | 65% | Last Result, Median |
+| 2.5–3.5% | 34% | 99.7% |  |
+| 3.5–4.5% | 60% | 65% | Last Result, Median |
 | 4.5–5.5% | 6% | 6% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -64,10 +64,10 @@ Last result: **5** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 3–6 | 2–6 | 2–6 | 1–7 |
-| [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 2–6 | 2–6 | 2–6 | 1–6 |
+| [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 6 | 2–6 | 2–6 | 2–6 | 1–6 |
 | [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 3–6 | 2–6 | 1–6 | 0–7 |
-| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 6 | 4–6 | 3–6 | 2–6 | 2–6 |
+| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 6 | 4–6 | 2–6 | 2–6 | 2–6 |
 | [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 6 | 5–6 | 5–6 | 4–6 | 2–7 |
 | [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 6 | 5–6 | 3–6 | 2–6 | 0–8 |
 | [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 6 | 3–6 | 2–6 | 2–6 | 2–6 |
@@ -103,16 +103,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 1.2% | 99.6% |  |
-| 2 | 5% | 98% |  |
-| 3 | 4% | 93% |  |
-| 4 | 5% | 89% |  |
-| 5 | 13% | 85% | Last Result |
-| 6 | 71% | 72% | Median |
-| 7 | 0.4% | 0.5% |  |
-| 8 | 0.1% | 0.2% |  |
-| 9 | 0.1% | 0.1% |  |
+| 0 | 0.3% | 100% |  |
+| 1 | 0.9% | 99.7% |  |
+| 2 | 13% | 98.7% |  |
+| 3 | 5% | 86% |  |
+| 4 | 3% | 81% |  |
+| 5 | 12% | 79% | Last Result |
+| 6 | 67% | 67% | Median |
+| 7 | 0.3% | 0.4% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 

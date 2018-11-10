@@ -71,10 +71,10 @@ Last result: **38** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–19 | 12–20 | 11–21 | 10–22 |
-| [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 18 | 13–21 | 12–21 | 11–21 | 10–22 |
+| [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20 | 18–21 | 18–21 | 16–21 | 15–22 |
 | [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 14 | 12–17 | 11–18 | 10–19 | 10–21 |
-| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 18 | 14–20 | 14–21 | 14–21 | 14–22 |
+| [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 17 | 14–20 | 14–21 | 14–21 | 14–22 |
 | [10 September–2 October 2018](2018-10-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 17 | 14–21 | 14–21 | 14–22 | 13–23 |
 | [14–27 September 2018](2018-09-27-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 14 | 12–16 | 12–18 | 11–19 | 10–21 |
 | [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16 | 14–19 | 14–20 | 13–21 | 12–22 |
@@ -111,20 +111,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
-| 10 | 2% | 99.9% |  |
-| 11 | 2% | 98% |  |
-| 12 | 8% | 96% |  |
-| 13 | 10% | 88% |  |
-| 14 | 20% | 78% |  |
-| 15 | 12% | 57% | Median |
-| 16 | 10% | 46% |  |
-| 17 | 5% | 36% |  |
-| 18 | 20% | 31% |  |
-| 19 | 2% | 11% |  |
-| 20 | 6% | 9% |  |
-| 21 | 3% | 3% |  |
-| 22 | 0.5% | 0.5% |  |
-| 23 | 0% | 0% |  |
+| 10 | 1.5% | 99.9% |  |
+| 11 | 1.2% | 98% |  |
+| 12 | 6% | 97% |  |
+| 13 | 7% | 92% |  |
+| 14 | 13% | 85% |  |
+| 15 | 9% | 72% |  |
+| 16 | 7% | 62% |  |
+| 17 | 4% | 55% |  |
+| 18 | 12% | 51% | Median |
+| 19 | 8% | 39% |  |
+| 20 | 13% | 31% |  |
+| 21 | 17% | 18% |  |
+| 22 | 0.6% | 0.7% |  |
+| 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |
