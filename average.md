@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | KESK | PS | KOK | SDP | VIHR | VAS | SFP | KD | SIN |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 19 April 2015 | General Election | 21.1% <br> 49 | 17.6% <br> 38 | 18.2% <br> 37 | 16.5% <br> 34 | 8.5% <br> 15 | 7.1% <br> 12 | 4.9% <br> 9 | 3.5% <br> 5 | 0.0% <br> 0 |
-| N/A | Poll Average | 14–18% <br> 31–41 | 7–11% <br> 11–21 | 18–22% <br> 37–49 | 20–24% <br> 45–55 | 10–14% <br> 18–29 | 8–11% <br> 15–22 | 3–5% <br> 6–11 | 3–5% <br> 2–6 | 1–3% <br> 0–1 |
-| [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 15–18% <br> 35–41 | 9–11% <br> 16–21 | 19–22% <br> 39–49 | 21–25% <br> 46–53 | 10–13% <br> 18–23 | 8–11% <br> 15–22 | 3–5% <br> 7–10 | 3–4% <br> 2–6 | 1–2% <br> 0 |
+| N/A | Poll Average | 14–18% <br> 31–41 | 7–11% <br> 11–21 | 18–22% <br> 37–49 | 20–24% <br> 45–56 | 10–14% <br> 18–29 | 8–11% <br> 14–22 | 3–5% <br> 6–11 | 3–5% <br> 2–6 | 1–3% <br> 0–1 |
+| [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 15–18% <br> 34–41 | 9–11% <br> 16–21 | 19–22% <br> 38–49 | 21–25% <br> 46–54 | 10–13% <br> 18–23 | 8–11% <br> 14–21 | 3–5% <br> 6–10 | 3–4% <br> 2–6 | 1–2% <br> 0 |
 | [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 13–17% <br> 30–41 | 6–9% <br> 10–19 | 18–22% <br> 37–50 | 20–25% <br> 44–58 | 11–15% <br> 20–31 | 8–11% <br> 14–22 | 3–6% <br> 6–11 | 3–5% <br> 1–6 | 2–3% <br> 0–1 |
 | [17 September–11 October 2018](2018-10-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 14–17% <br> 33–41 | 8–10% <br> 14–21 | 18–21% <br> 38–48 | 20–24% <br> 46–54 | 11–13% <br> 19–26 | 9–11% <br> 16–22 | 4–5% <br> 7–11 | 3–5% <br> 2–6 | 1–2% <br> 0 |
 | 19 April 2015 | General Election | 21.1% <br> 49 | 17.6% <br> 38 | 18.2% <br> 37 | 16.5% <br> 34 | 8.5% <br> 15 | 7.1% <br> 12 | 4.9% <br> 9 | 3.5% <br> 5 | 0.0% <br> 0 |
@@ -205,13 +205,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#suomen-keskusta">Suomen Keskusta</a> | 49 | 35 | 34–39 |33–41 | 31–41 | 30–43 |
-| <a href="#kansallinen-kokoomus">Kansallinen Kokoomus</a> | 37 | 43 | 39–47 |38–48 | 37–49 | 37–50 |
-| <a href="#perussuomalaiset">Perussuomalaiset</a> | 38 | 18 | 13–21 |12–21 | 11–21 | 10–22 |
-| <a href="#suomen-sosialidemokraattinen-puolue">Suomen Sosialidemokraattinen Puolue</a> | 34 | 49 | 47–53 |46–54 | 45–55 | 43–59 |
-| <a href="#vihreä-liitto">Vihreä liitto</a> | 15 | 22 | 18–27 |18–28 | 18–29 | 18–31 |
-| <a href="#vasemmistoliitto">Vasemmistoliitto</a> | 12 | 18 | 16–21 |15–22 | 15–22 | 13–23 |
-| <a href="#svenska-folkpartiet-i-finland">Svenska folkpartiet i Finland</a> | 9 | 8 | 7–10 |7–10 | 6–11 | 5–11 |
+| <a href="#suomen-keskusta">Suomen Keskusta</a> | 49 | 35 | 34–40 |33–41 | 31–41 | 30–43 |
+| <a href="#kansallinen-kokoomus">Kansallinen Kokoomus</a> | 37 | 43 | 39–47 |38–49 | 37–49 | 37–50 |
+| <a href="#perussuomalaiset">Perussuomalaiset</a> | 38 | 17 | 13–21 |12–21 | 11–21 | 10–22 |
+| <a href="#suomen-sosialidemokraattinen-puolue">Suomen Sosialidemokraattinen Puolue</a> | 34 | 49 | 47–53 |46–54 | 45–56 | 43–59 |
+| <a href="#vihreä-liitto">Vihreä liitto</a> | 15 | 22 | 19–27 |18–28 | 18–29 | 18–31 |
+| <a href="#vasemmistoliitto">Vasemmistoliitto</a> | 12 | 18 | 16–21 |15–22 | 14–22 | 13–23 |
+| <a href="#svenska-folkpartiet-i-finland">Svenska folkpartiet i Finland</a> | 9 | 8 | 7–10 |6–10 | 6–11 | 5–11 |
 | <a href="#kristillisdemokraatit">Kristillisdemokraatit</a> | 5 | 6 | 2–6 |2–6 | 2–6 | 1–6 |
 | <a href="#sininen-tulevaisuus">Sininen tulevaisuus</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 
@@ -225,19 +225,19 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
 | 29 | 0.4% | 99.9% |  |
-| 30 | 0.4% | 99.5% |  |
+| 30 | 0.5% | 99.5% |  |
 | 31 | 2% | 99.1% |  |
 | 32 | 2% | 97% |  |
 | 33 | 5% | 95% |  |
 | 34 | 17% | 90% |  |
-| 35 | 31% | 73% | Median |
-| 36 | 18% | 43% |  |
-| 37 | 7% | 24% |  |
-| 38 | 7% | 17% |  |
-| 39 | 2% | 10% |  |
-| 40 | 3% | 8% |  |
-| 41 | 4% | 5% |  |
-| 42 | 0.8% | 1.4% |  |
+| 35 | 26% | 73% | Median |
+| 36 | 18% | 47% |  |
+| 37 | 9% | 29% |  |
+| 38 | 7% | 20% |  |
+| 39 | 3% | 13% |  |
+| 40 | 4% | 10% |  |
+| 41 | 4% | 6% |  |
+| 42 | 1.2% | 2% |  |
 | 43 | 0.3% | 0.6% |  |
 | 44 | 0.2% | 0.3% |  |
 | 45 | 0.1% | 0.1% |  |
@@ -258,18 +258,18 @@ Only polls for which at least the sample size has been published are included in
 | 36 | 0.2% | 99.9% |  |
 | 37 | 3% | 99.8% | Last Result |
 | 38 | 5% | 97% |  |
-| 39 | 9% | 92% |  |
-| 40 | 8% | 83% |  |
-| 41 | 12% | 76% |  |
-| 42 | 10% | 63% |  |
-| 43 | 13% | 53% | Median |
-| 44 | 15% | 40% |  |
-| 45 | 3% | 25% |  |
-| 46 | 3% | 23% |  |
-| 47 | 12% | 20% |  |
-| 48 | 3% | 8% |  |
+| 39 | 10% | 92% |  |
+| 40 | 11% | 82% |  |
+| 41 | 9% | 71% |  |
+| 42 | 8% | 63% |  |
+| 43 | 11% | 54% | Median |
+| 44 | 15% | 44% |  |
+| 45 | 3% | 29% |  |
+| 46 | 3% | 26% |  |
+| 47 | 13% | 22% |  |
+| 48 | 4% | 9% |  |
 | 49 | 4% | 5% |  |
-| 50 | 0.7% | 0.9% |  |
+| 50 | 0.8% | 0.9% |  |
 | 51 | 0.1% | 0.2% |  |
 | 52 | 0% | 0.1% |  |
 | 53 | 0% | 0% |  |
@@ -287,15 +287,15 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 1.2% | 98% |  |
 | 12 | 6% | 97% |  |
 | 13 | 7% | 92% |  |
-| 14 | 13% | 85% |  |
-| 15 | 9% | 72% |  |
-| 16 | 7% | 62% |  |
-| 17 | 4% | 55% |  |
-| 18 | 12% | 51% | Median |
-| 19 | 8% | 39% |  |
-| 20 | 13% | 31% |  |
-| 21 | 17% | 18% |  |
-| 22 | 0.6% | 0.7% |  |
+| 14 | 14% | 85% |  |
+| 15 | 10% | 72% |  |
+| 16 | 8% | 62% |  |
+| 17 | 6% | 54% | Median |
+| 18 | 12% | 49% |  |
+| 19 | 13% | 36% |  |
+| 20 | 11% | 23% |  |
+| 21 | 11% | 12% |  |
+| 22 | 0.8% | 0.9% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
@@ -334,18 +334,18 @@ Only polls for which at least the sample size has been published are included in
 | 44 | 0.4% | 99.3% |  |
 | 45 | 2% | 98.9% |  |
 | 46 | 6% | 97% |  |
-| 47 | 17% | 92% |  |
-| 48 | 19% | 74% |  |
-| 49 | 12% | 55% | Median |
-| 50 | 16% | 43% |  |
-| 51 | 5% | 26% |  |
-| 52 | 10% | 21% |  |
-| 53 | 6% | 11% |  |
-| 54 | 2% | 6% |  |
-| 55 | 1.0% | 3% |  |
-| 56 | 0.8% | 2% |  |
-| 57 | 0.6% | 2% |  |
-| 58 | 0.5% | 1.0% |  |
+| 47 | 22% | 91% |  |
+| 48 | 17% | 69% |  |
+| 49 | 10% | 53% | Median |
+| 50 | 15% | 43% |  |
+| 51 | 6% | 28% |  |
+| 52 | 7% | 22% |  |
+| 53 | 9% | 15% |  |
+| 54 | 3% | 6% |  |
+| 55 | 1.0% | 4% |  |
+| 56 | 0.8% | 3% |  |
+| 57 | 0.8% | 2% |  |
+| 58 | 0.5% | 1.1% |  |
 | 59 | 0.5% | 0.6% |  |
 | 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |
@@ -359,14 +359,14 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0% | 100% | Last Result |
-| 16 | 0% | 100% |  |
-| 17 | 0.1% | 99.9% |  |
-| 18 | 11% | 99.8% |  |
-| 19 | 5% | 89% |  |
-| 20 | 8% | 84% |  |
-| 21 | 7% | 76% |  |
-| 22 | 20% | 69% | Median |
-| 23 | 19% | 50% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.2% | 99.9% |  |
+| 18 | 6% | 99.7% |  |
+| 19 | 12% | 94% |  |
+| 20 | 8% | 82% |  |
+| 21 | 6% | 74% |  |
+| 22 | 19% | 67% | Median |
+| 23 | 18% | 49% |  |
 | 24 | 9% | 30% |  |
 | 25 | 7% | 22% |  |
 | 26 | 4% | 15% |  |
@@ -389,15 +389,15 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 0.1% | 100% |  |
 | 12 | 0.1% | 99.9% | Last Result |
 | 13 | 0.4% | 99.8% |  |
-| 14 | 1.0% | 99.4% |  |
-| 15 | 4% | 98% |  |
-| 16 | 19% | 94% |  |
-| 17 | 18% | 75% |  |
-| 18 | 19% | 57% | Median |
+| 14 | 3% | 99.4% |  |
+| 15 | 2% | 97% |  |
+| 16 | 18% | 95% |  |
+| 17 | 15% | 77% |  |
+| 18 | 25% | 62% | Median |
 | 19 | 12% | 37% |  |
-| 20 | 10% | 26% |  |
-| 21 | 8% | 16% |  |
-| 22 | 7% | 8% |  |
+| 20 | 10% | 25% |  |
+| 21 | 8% | 15% |  |
+| 22 | 6% | 6% |  |
 | 23 | 0.3% | 0.6% |  |
 | 24 | 0.1% | 0.3% |  |
 | 25 | 0.1% | 0.2% |  |
@@ -414,10 +414,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.3% | 100% |  |
 | 5 | 0.3% | 99.7% |  |
-| 6 | 4% | 99.3% |  |
-| 7 | 21% | 96% |  |
-| 8 | 46% | 75% | Median |
-| 9 | 12% | 29% | Last Result |
+| 6 | 4% | 99.4% |  |
+| 7 | 20% | 95% |  |
+| 8 | 47% | 75% | Median |
+| 9 | 11% | 28% | Last Result |
 | 10 | 13% | 17% |  |
 | 11 | 4% | 4% |  |
 | 12 | 0.2% | 0.3% |  |
@@ -432,13 +432,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 0.9% | 99.7% |  |
-| 2 | 13% | 98.7% |  |
-| 3 | 5% | 86% |  |
-| 4 | 3% | 81% |  |
-| 5 | 12% | 79% | Last Result |
-| 6 | 67% | 67% | Median |
+| 0 | 0.4% | 100% |  |
+| 1 | 1.1% | 99.6% |  |
+| 2 | 9% | 98% |  |
+| 3 | 6% | 90% |  |
+| 4 | 10% | 84% |  |
+| 5 | 15% | 74% | Last Result |
+| 6 | 59% | 59% | Median |
 | 7 | 0.3% | 0.4% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0.1% |  |
@@ -466,14 +466,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Kansallinen Kokoomus – Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland – Kristillisdemokraatit | 112 | 146 | 100% | 143–151 | 142–153 | 141–154 | 139–156 |
-| Kansallinen Kokoomus – Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Svenska folkpartiet i Finland – Kristillisdemokraatit | 100 | 128 | 100% | 124–133 | 124–134 | 123–136 | 121–139 |
-| Kansallinen Kokoomus – Suomen Sosialidemokraattinen Puolue – Svenska folkpartiet i Finland – Kristillisdemokraatit | 85 | 105 | 94% | 101–109 | 100–111 | 99–112 | 98–115 |
-| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland | 70 | 98 | 25% | 93–104 | 90–106 | 90–108 | 90–110 |
-| Suomen Keskusta – Kansallinen Kokoomus – Perussuomalaiset | 124 | 96 | 9% | 90–100 | 87–103 | 86–103 | 83–104 |
-| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto | 61 | 90 | 2% | 85–96 | 82–97 | 82–100 | 82–102 |
-| Suomen Keskusta – Kansallinen Kokoomus – Svenska folkpartiet i Finland – Kristillisdemokraatit | 100 | 92 | 0.5% | 87–97 | 87–97 | 85–98 | 83–101 |
-| Suomen Keskusta – Kansallinen Kokoomus – Sininen tulevaisuus | 86 | 79 | 0% | 75–83 | 73–84 | 72–85 | 70–88 |
+| Kansallinen Kokoomus – Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland – Kristillisdemokraatit | 112 | 146 | 100% | 142–151 | 141–153 | 141–154 | 139–156 |
+| Kansallinen Kokoomus – Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Svenska folkpartiet i Finland – Kristillisdemokraatit | 100 | 128 | 100% | 124–133 | 124–134 | 122–136 | 120–139 |
+| Kansallinen Kokoomus – Suomen Sosialidemokraattinen Puolue – Svenska folkpartiet i Finland – Kristillisdemokraatit | 85 | 106 | 94% | 101–109 | 100–111 | 99–112 | 98–115 |
+| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland | 70 | 98 | 26% | 92–104 | 91–106 | 90–108 | 90–110 |
+| Suomen Keskusta – Kansallinen Kokoomus – Perussuomalaiset | 124 | 96 | 13% | 90–102 | 87–103 | 86–103 | 83–104 |
+| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto | 61 | 90 | 2% | 84–96 | 84–97 | 82–100 | 82–102 |
+| Suomen Keskusta – Kansallinen Kokoomus – Svenska folkpartiet i Finland – Kristillisdemokraatit | 100 | 92 | 0.6% | 88–97 | 86–97 | 85–99 | 83–101 |
+| Suomen Keskusta – Kansallinen Kokoomus – Sininen tulevaisuus | 86 | 79 | 0% | 75–83 | 73–84 | 72–86 | 70–88 |
 
 ### Kansallinen Kokoomus – Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland – Kristillisdemokraatit
 
@@ -505,17 +505,17 @@ Only polls for which at least the sample size has been published are included in
 | 133 | 0% | 100% |  |
 | 134 | 0% | 100% |  |
 | 135 | 0.1% | 100% |  |
-| 136 | 0% | 99.9% |  |
+| 136 | 0.1% | 99.9% |  |
 | 137 | 0.1% | 99.9% |  |
-| 138 | 0.2% | 99.8% |  |
-| 139 | 0.5% | 99.6% |  |
-| 140 | 1.0% | 99.1% |  |
-| 141 | 1.3% | 98% |  |
-| 142 | 5% | 97% |  |
-| 143 | 26% | 92% |  |
-| 144 | 8% | 66% |  |
-| 145 | 7% | 58% |  |
-| 146 | 9% | 51% | Median |
+| 138 | 0.2% | 99.7% |  |
+| 139 | 1.1% | 99.5% |  |
+| 140 | 0.9% | 98% |  |
+| 141 | 5% | 98% |  |
+| 142 | 4% | 93% |  |
+| 143 | 14% | 89% |  |
+| 144 | 13% | 74% |  |
+| 145 | 11% | 62% |  |
+| 146 | 7% | 50% | Median |
 | 147 | 7% | 43% |  |
 | 148 | 10% | 36% |  |
 | 149 | 5% | 26% |  |
@@ -556,19 +556,19 @@ Only polls for which at least the sample size has been published are included in
 | 116 | 0% | 100% |  |
 | 117 | 0% | 100% |  |
 | 118 | 0.1% | 100% |  |
-| 119 | 0.1% | 99.9% |  |
-| 120 | 0.2% | 99.8% |  |
-| 121 | 0.8% | 99.6% |  |
-| 122 | 1.1% | 98.8% |  |
-| 123 | 2% | 98% |  |
-| 124 | 8% | 96% |  |
-| 125 | 9% | 88% |  |
-| 126 | 13% | 79% |  |
-| 127 | 16% | 66% |  |
-| 128 | 10% | 50% | Median |
-| 129 | 12% | 40% |  |
-| 130 | 8% | 28% |  |
-| 131 | 5% | 20% |  |
+| 119 | 0.2% | 99.9% |  |
+| 120 | 0.3% | 99.7% |  |
+| 121 | 0.8% | 99.5% |  |
+| 122 | 2% | 98.7% |  |
+| 123 | 2% | 97% |  |
+| 124 | 7% | 95% |  |
+| 125 | 12% | 89% |  |
+| 126 | 14% | 77% |  |
+| 127 | 10% | 62% |  |
+| 128 | 9% | 52% | Median |
+| 129 | 14% | 43% |  |
+| 130 | 9% | 30% |  |
+| 131 | 7% | 21% |  |
 | 132 | 2% | 14% |  |
 | 133 | 4% | 12% |  |
 | 134 | 3% | 8% |  |
@@ -599,23 +599,23 @@ Only polls for which at least the sample size has been published are included in
 | 94 | 0% | 100% |  |
 | 95 | 0% | 100% |  |
 | 96 | 0.1% | 100% |  |
-| 97 | 0.3% | 99.9% |  |
+| 97 | 0.2% | 99.9% |  |
 | 98 | 0.9% | 99.6% |  |
 | 99 | 2% | 98.7% |  |
 | 100 | 3% | 97% |  |
 | 101 | 4% | 94% | Majority |
-| 102 | 8% | 90% |  |
-| 103 | 13% | 81% |  |
-| 104 | 9% | 68% |  |
-| 105 | 11% | 59% |  |
-| 106 | 11% | 49% | Median |
-| 107 | 7% | 38% |  |
-| 108 | 7% | 31% |  |
-| 109 | 16% | 24% |  |
+| 102 | 8% | 89% |  |
+| 103 | 11% | 82% |  |
+| 104 | 6% | 71% |  |
+| 105 | 12% | 64% |  |
+| 106 | 14% | 52% | Median |
+| 107 | 12% | 38% |  |
+| 108 | 7% | 26% |  |
+| 109 | 11% | 19% |  |
 | 110 | 3% | 8% |  |
 | 111 | 2% | 5% |  |
-| 112 | 0.9% | 3% |  |
-| 113 | 1.2% | 2% |  |
+| 112 | 1.0% | 3% |  |
+| 113 | 1.3% | 2% |  |
 | 114 | 0.2% | 1.1% |  |
 | 115 | 0.7% | 0.9% |  |
 | 116 | 0.1% | 0.2% |  |
@@ -648,19 +648,19 @@ Only polls for which at least the sample size has been published are included in
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
-| 89 | 0.2% | 100% |  |
-| 90 | 7% | 99.8% |  |
-| 91 | 0.5% | 93% |  |
-| 92 | 0.7% | 92% |  |
-| 93 | 5% | 92% |  |
+| 89 | 0.1% | 99.9% |  |
+| 90 | 3% | 99.8% |  |
+| 91 | 2% | 97% |  |
+| 92 | 5% | 95% |  |
+| 93 | 3% | 90% |  |
 | 94 | 3% | 87% |  |
-| 95 | 8% | 83% |  |
-| 96 | 5% | 75% |  |
-| 97 | 14% | 70% | Median |
-| 98 | 10% | 56% |  |
-| 99 | 11% | 46% |  |
-| 100 | 10% | 35% |  |
-| 101 | 7% | 25% | Majority |
+| 95 | 7% | 84% |  |
+| 96 | 6% | 77% |  |
+| 97 | 18% | 71% | Median |
+| 98 | 8% | 52% |  |
+| 99 | 10% | 45% |  |
+| 100 | 9% | 35% |  |
+| 101 | 7% | 26% | Majority |
 | 102 | 5% | 19% |  |
 | 103 | 3% | 14% |  |
 | 104 | 2% | 11% |  |
@@ -694,20 +694,20 @@ Only polls for which at least the sample size has been published are included in
 | 91 | 5% | 88% |  |
 | 92 | 6% | 83% |  |
 | 93 | 6% | 77% |  |
-| 94 | 11% | 72% |  |
-| 95 | 8% | 61% |  |
-| 96 | 10% | 53% | Median |
-| 97 | 7% | 43% |  |
-| 98 | 13% | 36% |  |
-| 99 | 6% | 24% |  |
-| 100 | 9% | 18% |  |
-| 101 | 0.7% | 9% | Majority |
-| 102 | 0.8% | 9% |  |
-| 103 | 6% | 8% |  |
-| 104 | 1.3% | 2% |  |
-| 105 | 0.1% | 0.3% |  |
+| 94 | 9% | 71% |  |
+| 95 | 8% | 62% | Median |
+| 96 | 10% | 54% |  |
+| 97 | 7% | 44% |  |
+| 98 | 14% | 37% |  |
+| 99 | 7% | 23% |  |
+| 100 | 4% | 16% |  |
+| 101 | 2% | 13% | Majority |
+| 102 | 5% | 11% |  |
+| 103 | 3% | 5% |  |
+| 104 | 2% | 2% |  |
+| 105 | 0.2% | 0.5% |  |
 | 106 | 0.1% | 0.2% |  |
-| 107 | 0.1% | 0.1% |  |
+| 107 | 0.1% | 0.2% |  |
 | 108 | 0% | 0% |  |
 | 109 | 0% | 0% |  |
 | 110 | 0% | 0% |  |
@@ -751,21 +751,21 @@ Only polls for which at least the sample size has been published are included in
 | 77 | 0% | 100% |  |
 | 78 | 0% | 100% |  |
 | 79 | 0% | 100% |  |
-| 80 | 0% | 100% |  |
-| 81 | 0% | 99.9% |  |
-| 82 | 7% | 99.9% |  |
-| 83 | 0.9% | 93% |  |
-| 84 | 1.1% | 92% |  |
-| 85 | 1.1% | 91% |  |
-| 86 | 7% | 90% |  |
-| 87 | 10% | 83% |  |
-| 88 | 9% | 73% |  |
-| 89 | 12% | 64% | Median |
-| 90 | 8% | 52% |  |
-| 91 | 10% | 44% |  |
-| 92 | 9% | 34% |  |
-| 93 | 7% | 25% |  |
-| 94 | 4% | 17% |  |
+| 80 | 0.1% | 100% |  |
+| 81 | 0.3% | 99.9% |  |
+| 82 | 3% | 99.6% |  |
+| 83 | 1.1% | 97% |  |
+| 84 | 7% | 96% |  |
+| 85 | 2% | 89% |  |
+| 86 | 4% | 87% |  |
+| 87 | 9% | 83% |  |
+| 88 | 7% | 74% |  |
+| 89 | 16% | 67% | Median |
+| 90 | 10% | 52% |  |
+| 91 | 8% | 41% |  |
+| 92 | 7% | 33% |  |
+| 93 | 8% | 25% |  |
+| 94 | 4% | 18% |  |
 | 95 | 3% | 13% |  |
 | 96 | 3% | 10% |  |
 | 97 | 3% | 7% |  |
@@ -791,22 +791,22 @@ Only polls for which at least the sample size has been published are included in
 | 83 | 0.7% | 99.7% |  |
 | 84 | 0.5% | 99.0% |  |
 | 85 | 2% | 98% |  |
-| 86 | 1.5% | 97% |  |
-| 87 | 7% | 95% |  |
-| 88 | 5% | 88% |  |
-| 89 | 12% | 83% |  |
-| 90 | 7% | 71% |  |
-| 91 | 8% | 64% |  |
-| 92 | 21% | 57% | Median |
-| 93 | 7% | 36% |  |
-| 94 | 5% | 29% |  |
-| 95 | 4% | 24% |  |
-| 96 | 4% | 20% |  |
-| 97 | 12% | 15% |  |
+| 86 | 2% | 96% |  |
+| 87 | 4% | 95% |  |
+| 88 | 5% | 91% |  |
+| 89 | 14% | 86% |  |
+| 90 | 6% | 72% |  |
+| 91 | 10% | 66% |  |
+| 92 | 16% | 56% | Median |
+| 93 | 7% | 40% |  |
+| 94 | 6% | 32% |  |
+| 95 | 4% | 26% |  |
+| 96 | 9% | 22% |  |
+| 97 | 8% | 13% |  |
 | 98 | 2% | 4% |  |
-| 99 | 1.1% | 2% |  |
-| 100 | 0.4% | 0.9% | Last Result |
-| 101 | 0.4% | 0.5% | Majority |
+| 99 | 1.4% | 3% |  |
+| 100 | 0.6% | 1.2% | Last Result |
+| 101 | 0.5% | 0.6% | Majority |
 | 102 | 0.1% | 0.2% |  |
 | 103 | 0.1% | 0.1% |  |
 | 104 | 0% | 0% |  |
@@ -824,21 +824,21 @@ Only polls for which at least the sample size has been published are included in
 | 72 | 2% | 98.5% |  |
 | 73 | 2% | 97% |  |
 | 74 | 4% | 95% |  |
-| 75 | 7% | 90% |  |
-| 76 | 9% | 84% |  |
-| 77 | 11% | 74% |  |
-| 78 | 12% | 63% | Median |
-| 79 | 18% | 51% |  |
-| 80 | 7% | 33% |  |
-| 81 | 4% | 26% |  |
-| 82 | 4% | 21% |  |
-| 83 | 11% | 18% |  |
-| 84 | 3% | 7% |  |
-| 85 | 2% | 4% |  |
-| 86 | 0.8% | 2% | Last Result |
-| 87 | 0.5% | 1.1% |  |
-| 88 | 0.3% | 0.6% |  |
-| 89 | 0.2% | 0.3% |  |
+| 75 | 6% | 90% |  |
+| 76 | 7% | 84% |  |
+| 77 | 12% | 77% |  |
+| 78 | 10% | 65% | Median |
+| 79 | 17% | 55% |  |
+| 80 | 8% | 38% |  |
+| 81 | 6% | 30% |  |
+| 82 | 5% | 24% |  |
+| 83 | 11% | 19% |  |
+| 84 | 3% | 8% |  |
+| 85 | 2% | 5% |  |
+| 86 | 2% | 3% | Last Result |
+| 87 | 0.6% | 1.3% |  |
+| 88 | 0.4% | 0.7% |  |
+| 89 | 0.3% | 0.3% |  |
 | 90 | 0% | 0.1% |  |
 | 91 | 0% | 0% |  |
 
@@ -846,6 +846,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 2,621,440
 + **Error estimate:** 2.44%
