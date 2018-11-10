@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Suomen eduskunta</title>
     <link>https://filipvanlaenen.github.io/finnish_polls</link>
     <description>All Registered Polls for the Suomen eduskunta</description>
-    <pubDate>Sat, 10 Nov 2018 11:07:39 +0100</pubDate>
+    <pubDate>Sat, 10 Nov 2018 14:16:40 +0100</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 3 October–6 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2018-11-06-Taloustutkimus.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-11-06-Taloustutkimus.png"
         length="263682"
         type="image/png"/>
-      <pubDate>Sat, 10 Nov 2018 11:07:39 +0100</pubDate>
-      <dc:date>2018-11-10T11:07:39.565642+01:00</dc:date>
+      <pubDate>Sat, 10 Nov 2018 14:16:40 +0100</pubDate>
+      <dc:date>2018-11-10T14:16:40.019478+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 12–30 October 2018 – Seat Projections for the Parties</title>
@@ -579,6 +579,6 @@
       <pubDate>Thu, 08 Nov 2018 17:19:45 +0100</pubDate>
       <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
     </item>
-    <dc:date>2018-11-10T11:07:39.565642+01:00</dc:date>
+    <dc:date>2018-11-10T14:16:40.019478+01:00</dc:date>
   </channel>
 </rss>
