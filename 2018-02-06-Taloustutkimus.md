@@ -253,7 +253,10 @@
 | Kansallinen Kokoomus – Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Svenska folkpartiet i Finland – Kristillisdemokraatit | 100 | 129 | 100% | 123–132 | 120–132 | 119–132 | 119–132 |
 | Kansallinen Kokoomus – Suomen Keskusta – Perussuomalaiset | 124 | 102 | 88% | 100–108 | 99–110 | 99–110 | 96–112 |
 | Kansallinen Kokoomus – Suomen Sosialidemokraattinen Puolue – Svenska folkpartiet i Finland – Kristillisdemokraatit | 85 | 101 | 52% | 94–105 | 94–105 | 93–105 | 90–106 |
+| Kansallinen Kokoomus – Suomen Keskusta – Svenska folkpartiet i Finland – Kristillisdemokraatit | 100 | 96 | 4% | 93–99 | 93–100 | 93–102 | 89–105 |
+| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland | 70 | 93 | 0.3% | 88–94 | 87–95 | 86–98 | 84–99 |
 | Kansallinen Kokoomus – Suomen Keskusta – Sininen tulevaisuus | 86 | 84 | 0% | 81–88 | 81–89 | 78–90 | 77–92 |
+| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto | 61 | 83 | 0% | 81–86 | 79–86 | 78–88 | 76–89 |
 
 ### Kansallinen Kokoomus – Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland – Kristillisdemokraatit
 
@@ -410,6 +413,76 @@
 | 107 | 0.1% | 0.1% |  |
 | 108 | 0% | 0% |  |
 
+### Kansallinen Kokoomus – Suomen Keskusta – Svenska folkpartiet i Finland – Kristillisdemokraatit
+
+![Graph with seats probability mass function not yet produced](2018-02-06-Taloustutkimus-coalitions-seats-pmf-kok–kesk–sfp–kd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 86 | 0.1% | 100% |  |
+| 87 | 0% | 99.9% |  |
+| 88 | 0.1% | 99.8% |  |
+| 89 | 0.3% | 99.7% |  |
+| 90 | 0.4% | 99.4% |  |
+| 91 | 0.6% | 99.0% |  |
+| 92 | 0.3% | 98% |  |
+| 93 | 18% | 98% |  |
+| 94 | 3% | 80% |  |
+| 95 | 9% | 77% |  |
+| 96 | 22% | 68% |  |
+| 97 | 6% | 45% |  |
+| 98 | 6% | 39% |  |
+| 99 | 27% | 34% | Median |
+| 100 | 2% | 6% | Last Result |
+| 101 | 1.2% | 4% | Majority |
+| 102 | 1.1% | 3% |  |
+| 103 | 0.4% | 2% |  |
+| 104 | 0.8% | 2% |  |
+| 105 | 0.6% | 0.8% |  |
+| 106 | 0.2% | 0.2% |  |
+| 107 | 0% | 0.1% |  |
+| 108 | 0% | 0% |  |
+
+### Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland
+
+![Graph with seats probability mass function not yet produced](2018-02-06-Taloustutkimus-coalitions-seats-pmf-sdp–vihr–vas–sfp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 70 | 0% | 100% | Last Result |
+| 71 | 0% | 100% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0% | 100% |  |
+| 75 | 0% | 100% |  |
+| 76 | 0% | 100% |  |
+| 77 | 0% | 100% |  |
+| 78 | 0% | 100% |  |
+| 79 | 0% | 100% |  |
+| 80 | 0% | 100% |  |
+| 81 | 0% | 100% |  |
+| 82 | 0% | 100% |  |
+| 83 | 0.2% | 100% |  |
+| 84 | 0.7% | 99.8% |  |
+| 85 | 0.1% | 99.1% |  |
+| 86 | 2% | 99.0% |  |
+| 87 | 3% | 97% |  |
+| 88 | 5% | 94% |  |
+| 89 | 2% | 89% |  |
+| 90 | 3% | 88% |  |
+| 91 | 3% | 84% |  |
+| 92 | 28% | 82% | Median |
+| 93 | 21% | 54% |  |
+| 94 | 28% | 33% |  |
+| 95 | 0.9% | 5% |  |
+| 96 | 0.7% | 4% |  |
+| 97 | 0.8% | 3% |  |
+| 98 | 2% | 3% |  |
+| 99 | 0.4% | 0.7% |  |
+| 100 | 0.1% | 0.3% |  |
+| 101 | 0.2% | 0.3% | Majority |
+| 102 | 0% | 0% |  |
+
 ### Kansallinen Kokoomus – Suomen Keskusta – Sininen tulevaisuus
 
 ![Graph with seats probability mass function not yet produced](2018-02-06-Taloustutkimus-coalitions-seats-pmf-kok–kesk–sin.png "Seats Probability Mass Function")
@@ -438,6 +511,46 @@
 | 93 | 0.3% | 0.3% |  |
 | 94 | 0.1% | 0.1% |  |
 | 95 | 0% | 0% |  |
+
+### Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto
+
+![Graph with seats probability mass function not yet produced](2018-02-06-Taloustutkimus-coalitions-seats-pmf-sdp–vihr–vas.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 61 | 0% | 100% | Last Result |
+| 62 | 0% | 100% |  |
+| 63 | 0% | 100% |  |
+| 64 | 0% | 100% |  |
+| 65 | 0% | 100% |  |
+| 66 | 0% | 100% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0% | 100% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0.1% | 100% |  |
+| 75 | 0% | 99.9% |  |
+| 76 | 0.4% | 99.9% |  |
+| 77 | 2% | 99.5% |  |
+| 78 | 1.2% | 98% |  |
+| 79 | 4% | 96% |  |
+| 80 | 2% | 92% |  |
+| 81 | 5% | 90% |  |
+| 82 | 26% | 86% | Median |
+| 83 | 24% | 59% |  |
+| 84 | 21% | 35% |  |
+| 85 | 4% | 14% |  |
+| 86 | 6% | 11% |  |
+| 87 | 1.2% | 4% |  |
+| 88 | 2% | 3% |  |
+| 89 | 0.4% | 0.9% |  |
+| 90 | 0.2% | 0.5% |  |
+| 91 | 0.2% | 0.2% |  |
+| 92 | 0.1% | 0.1% |  |
+| 93 | 0% | 0% |  |
 
 
 ## Technical Information
