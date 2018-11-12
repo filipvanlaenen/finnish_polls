@@ -81,7 +81,7 @@ Last result: **37** seats (General Election of 19 April 2015)
 | [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 44 | 40–47 | 39–48 | 38–49 | 37–49 |
 | [6 June–3 July 2018](2018-07-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 39–46 | 39–46 | 38–47 | 38–48 |
 | [6–26 June 2018](2018-06-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 42 | 38–48 | 37–49 | 37–49 | 36–50 |
-| [14 May–10 June 2018](2018-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 39 | 38–44 | 38–46 | 38–48 | 37–49 |
+| [14 May–10 June 2018](2018-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 41 | 38–46 | 38–47 | 38–48 | 37–49 |
 | [2 May–5 June 2018](2018-06-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 39–43 | 38–44 | 38–45 | 37–47 |
 | [18–31 May 2018](2018-05-31-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 41 | 38–47 | 37–49 | 37–49 | 36–50 |
 | [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 45 | 41–48 | 40–49 | 39–49 | 38–50 |
@@ -89,12 +89,12 @@ Last result: **37** seats (General Election of 19 April 2015)
 | [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 41 | 39–46 | 39–47 | 38–48 | 37–50 |
 | [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 45 | 41–48 | 40–49 | 40–49 | 38–50 |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 47 | 42–50 | 41–50 | 40–51 | 39–53 |
-| [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 43 | 39–49 | 38–49 | 37–49 | 36–50 |
+| [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 43 | 39–47 | 38–49 | 37–49 | 37–50 |
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 42–49 | 42–50 | 41–50 | 40–51 |
 | [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 42 | 40–47 | 39–49 | 38–49 | 37–50 |
 | [14–26 February 2018](2018-02-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 47 | 41–49 | 39–50 | 39–50 | 37–54 |
 | [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 48 | 44–50 | 42–51 | 42–51 | 40–53 |
-| [28 December 2017–6 February 2018](2018-02-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 47 | 42–47 | 40–48 | 40–49 | 40–50 |
+| [28 December 2017–6 February 2018](2018-02-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 46 | 41–48 | 40–49 | 40–50 | 39–50 |
 | [19–29 January 2018](2018-01-29-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 47 | 40–50 | 39–50 | 39–51 | 37–52 |
 | [12 December 2017–18 January 2018](2018-01-18-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 48 | 46–51 | 44–51 | 42–51 | 41–53 |
 
