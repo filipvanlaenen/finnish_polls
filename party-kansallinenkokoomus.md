@@ -79,14 +79,14 @@ Last result: **37** seats (General Election of 19 April 2015)
 | [16 July–16 August 2018](2018-08-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 43 | 39–48 | 38–49 | 37–49 | 37–50 |
 | [9 July–7 August 2018](2018-08-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 41 | 39–46 | 38–48 | 38–48 | 38–48 |
 | [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 44 | 40–47 | 39–48 | 38–49 | 37–49 |
-| [6 June–3 July 2018](2018-07-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 38–46 | 38–47 | 38–47 | 38–48 |
+| [6 June–3 July 2018](2018-07-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 39–45 | 38–46 | 38–47 | 37–48 |
 | [6–26 June 2018](2018-06-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 42 | 38–48 | 37–49 | 37–49 | 36–50 |
 | [14 May–10 June 2018](2018-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 41 | 38–46 | 38–47 | 38–48 | 37–49 |
 | [2 May–5 June 2018](2018-06-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 39–43 | 38–44 | 38–45 | 37–47 |
 | [18–31 May 2018](2018-05-31-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 41 | 38–47 | 37–49 | 37–49 | 36–50 |
-| [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 45 | 41–48 | 40–49 | 39–49 | 38–50 |
+| [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 45 | 41–48 | 40–49 | 39–49 | 38–49 |
 | [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 41 | 38–46 | 37–48 | 37–49 | 36–50 |
-| [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 41 | 39–46 | 39–47 | 38–48 | 37–50 |
+| [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 40–46 | 39–46 | 39–47 | 38–50 |
 | [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 45 | 41–48 | 40–49 | 40–49 | 38–50 |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 47 | 42–50 | 41–50 | 40–51 | 39–53 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 42 | 38–49 | 38–49 | 37–49 | 37–50 |
