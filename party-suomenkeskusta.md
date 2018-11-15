@@ -87,14 +87,14 @@ Last result: **49** seats (General Election of 19 April 2015)
 | [18–31 May 2018](2018-05-31-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 35 | 32–39 | 31–41 | 30–42 | 29–43 |
 | [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–39 | 34–41 | 34–41 | 33–42 |
 | [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 36 | 34–42 | 33–42 | 33–43 | 31–44 |
-| [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 38 | 35–43 | 35–44 | 34–44 | 34–45 |
+| [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 38 | 35–43 | 35–44 | 35–45 | 34–46 |
 | [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–38 | 34–39 | 34–40 | 32–42 |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 36 | 34–40 | 33–41 | 33–42 | 33–44 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 37 | 34–42 | 34–42 | 34–43 | 32–44 |
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–39 | 34–39 | 34–40 | 33–43 |
 | [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 35–44 | 35–44 | 34–45 | 34–47 |
 | [14–26 February 2018](2018-02-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 35 | 34–38 | 33–40 | 32–41 | 30–44 |
-| [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 36 | 35–40 | 34–42 | 34–43 | 33–44 |
+| [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 36 | 34–40 | 34–41 | 34–42 | 33–44 |
 | [28 December 2017–6 February 2018](2018-02-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 40 | 35–43 | 35–44 | 35–45 | 35–46 |
 | [19–29 January 2018](2018-01-29-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 35 | 33–40 | 33–41 | 31–42 | 30–43 |
 | [12 December 2017–18 January 2018](2018-01-18-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 36 | 34–37 | 34–38 | 33–39 | 32–42 |
