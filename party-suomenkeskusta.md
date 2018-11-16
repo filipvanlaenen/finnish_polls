@@ -78,7 +78,7 @@ Last result: **49** seats (General Election of 19 April 2015)
 | [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 42 | 39–45 | 37–45 | 36–46 | 35–48 |
 | [13–25 August 2018](2018-08-25-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 35 | 33–40 | 33–42 | 32–43 | 30–44 |
 | [16 July–16 August 2018](2018-08-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–38 | 33–40 | 32–41 | 30–42 |
-| [9 July–7 August 2018](2018-08-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 42 | 38–44 | 37–45 | 35–45 | 35–47 |
+| [9 July–7 August 2018](2018-08-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 42 | 38–44 | 37–45 | 35–45 | 35–46 |
 | [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 34 | 34–36 | 33–37 | 32–39 | 31–41 |
 | [6 June–3 July 2018](2018-07-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 37 | 35–40 | 35–42 | 34–42 | 34–44 |
 | [6–26 June 2018](2018-06-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 37 | 34–42 | 33–43 | 33–44 | 30–45 |
@@ -86,7 +86,7 @@ Last result: **49** seats (General Election of 19 April 2015)
 | [2 May–5 June 2018](2018-06-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 41 | 39–44 | 38–45 | 37–45 | 35–46 |
 | [18–31 May 2018](2018-05-31-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 35 | 32–39 | 31–41 | 30–42 | 29–43 |
 | [16 April–11 May 2018](2018-05-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–39 | 34–41 | 34–41 | 33–42 |
-| [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 36 | 34–42 | 33–42 | 33–43 | 31–44 |
+| [19 April–2 May 2018](2018-05-02-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 36 | 34–42 | 34–42 | 33–43 | 30–45 |
 | [3–26 April 2018](2018-04-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 38 | 35–43 | 35–44 | 35–45 | 34–46 |
 | [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 35 | 34–38 | 34–39 | 34–40 | 32–42 |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 36 | 34–40 | 33–41 | 33–42 | 33–44 |
