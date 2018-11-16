@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/finnish_polls</id>
   <title>All Registered Polls for the Suomen eduskunta</title>
-  <updated>2018-11-15T18:21:29.332618+01:00</updated>
+  <updated>2018-11-16T13:31:40.75029+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta: 14.9–18.2%, 34–42 seats</li><li>Kansallinen Kokoomus: 18.5–22.0%, 38–49 seats</li><li>Perussuomalaiset: 8.6–11.2%, 15–22 seats</li><li>Suomen Sosialidemokraattinen Puolue: 20.9–24.6%, 46–56 seats</li><li>Vihreä liitto: 10.0–12.8%, 18–24 seats</li><li>Vasemmistoliitto: 8.0–10.5%, 14–21 seats</li><li>Svenska folkpartiet i Finland: 3.5–5.3%, 6–10 seats</li><li>Kristillisdemokraatit: 2.8–4.4%, 1–6 seats</li><li>Sininen tulevaisuus: 0.7–1.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/finnish_polls/2018-11-06-Taloustutkimus.html</id>
@@ -80,6 +80,14 @@
     <dc:date>2018-11-04T11:39:01.359558+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta: 16.3–19.4%, 35–45 seats</li><li>Kansallinen Kokoomus: 18.2–21.4%, 38–48 seats</li><li>Perussuomalaiset: 7.6–9.9%, 13–20 seats</li><li>Suomen Sosialidemokraattinen Puolue: 19.6–22.9%, 43–52 seats</li><li>Vihreä liitto: 12.3–15.0%, 22–31 seats</li><li>Vasemmistoliitto: 6.7–8.8%, 11–16 seats</li><li>Svenska folkpartiet i Finland: 3.6–5.2%, 7–10 seats</li><li>Kristillisdemokraatit: 3.1–4.6%, 2–6 seats</li><li>Sininen tulevaisuus: 0.5–1.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/finnish_polls/2018-08-07-Taloustutkimus.html</id>
+    <link href="https://filipvanlaenen.github.io/finnish_polls/2018-08-07-Taloustutkimus.html"/>
+    <title>Opinion Poll by Taloustutkimus for Yle, 9 July–7 August 2018</title>
+    <updated>2018-11-16T13:31:40.75029+01:00</updated>
+    <dc:date>2018-11-16T13:31:40.75029+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta: 13.9–16.8%, 32–39 seats</li><li>Kansallinen Kokoomus: 18.7–21.8%, 38–49 seats</li><li>Perussuomalaiset: 6.8–8.9%, 12–16 seats</li><li>Suomen Sosialidemokraattinen Puolue: 20.5–23.8%, 46–54 seats</li><li>Vihreä liitto: 11.9–14.6%, 22–29 seats</li><li>Vasemmistoliitto: 8.5–10.8%, 17–21 seats</li><li>Svenska folkpartiet i Finland: 3.6–5.2%, 6–11 seats</li><li>Kristillisdemokraatit: 3.5–5.1%, 5–6 seats</li><li>Sininen tulevaisuus: 0.9–1.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/finnish_polls/2018-07-12-KantarTNS.html</id>
     <link href="https://filipvanlaenen.github.io/finnish_polls/2018-07-12-KantarTNS.html"/>
@@ -134,6 +142,14 @@
     <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 16 April–11 May 2018</title>
     <updated>2018-11-13T11:06:30.324122+01:00</updated>
     <dc:date>2018-11-13T11:06:30.324122+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta: 13.9–18.2%, 33–43 seats</li><li>Kansallinen Kokoomus: 17.3–21.9%, 37–49 seats</li><li>Perussuomalaiset: 6.6–9.7%, 11–20 seats</li><li>Suomen Sosialidemokraattinen Puolue: 19.5–24.3%, 44–56 seats</li><li>Vihreä liitto: 11.3–15.3%, 22–31 seats</li><li>Vasemmistoliitto: 7.2–10.5%, 12–20 seats</li><li>Svenska folkpartiet i Finland: 3.5–5.9%, 6–12 seats</li><li>Kristillisdemokraatit: 3.0–5.4%, 2–6 seats</li><li>Sininen tulevaisuus: 1.4–3.1%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/finnish_polls/2018-05-02-Tietoykkönen.html</id>
+    <link href="https://filipvanlaenen.github.io/finnish_polls/2018-05-02-Tietoykkönen.html"/>
+    <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 19 April–2 May 2018</title>
+    <updated>2018-11-16T06:37:45.323242+01:00</updated>
+    <dc:date>2018-11-16T06:37:45.323242+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta: 15.3–19.0%, 35–45 seats</li><li>Kansallinen Kokoomus: 18.3–22.3%, 38–49 seats</li><li>Perussuomalaiset: 7.2–10.0%, 12–21 seats</li><li>Suomen Sosialidemokraattinen Puolue: 18.1–22.1%, 39–49 seats</li><li>Vihreä liitto: 13.2–16.8%, 25–32 seats</li><li>Vasemmistoliitto: 7.8–10.6%, 13–20 seats</li><li>Svenska folkpartiet i Finland: 2.9–4.7%, 4–9 seats</li><li>Kristillisdemokraatit: 2.5–4.3%, 0–6 seats</li><li>Sininen tulevaisuus: 1.0–2.2%, 0 seats</li></ul></div></content>
@@ -223,5 +239,5 @@
     <updated>2018-11-08T17:19:45.573879+01:00</updated>
     <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
   </entry>
-  <dc:date>2018-11-15T18:21:29.332618+01:00</dc:date>
+  <dc:date>2018-11-16T13:31:40.75029+01:00</dc:date>
 </feed>
