@@ -18,6 +18,7 @@ The following websites provide similar information to this website:
 
 ## Other Resources
 
++ The Twitter feed for this site: [@fipolls](https://twitter.com/fipolls)
 + The RSS 2.0 feed for this site: [rss.xml](rss.xml)
 + The Atom feed for this site: [atom.xml](atom.xml)
 + The GitHub project for this site: [filipvanlaenen/finnish_polls](https://github.com/filipvanlaenen/finnish_polls)
