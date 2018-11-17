@@ -30,14 +30,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#suomen-sosialidemokraattinen-puolue">Suomen Sosialidemokraattinen Puolue</a> | 34 | 51 | 51 |51–54 |51–54 |50–54 |
-| <a href="#kansallinen-kokoomus">Kansallinen Kokoomus</a> | 37 | 43 | 43 |43–46 |43–46 |38–46 |
-| <a href="#suomen-keskusta">Suomen Keskusta</a> | 49 | 36 | 36 |36 |36 |36–43 |
-| <a href="#vihreä-liitto">Vihreä liitto</a> | 15 | 23 | 23 |20–23 |20–23 |20–23 |
-| <a href="#vasemmistoliitto">Vasemmistoliitto</a> | 12 | 18 | 18 |17–18 |17–18 |16–18 |
-| <a href="#perussuomalaiset">Perussuomalaiset</a> | 38 | 13 | 13 |13–14 |13–14 |13–14 |
-| <a href="#svenska-folkpartiet-i-finland">Svenska folkpartiet i Finland</a> | 9 | 9 | 9 |8–9 |8–9 |8–10 |
-| <a href="#kristillisdemokraatit">Kristillisdemokraatit</a> | 5 | 6 | 6 |4–6 |4–6 |4–6 |
+| <a href="#suomen-sosialidemokraattinen-puolue">Suomen Sosialidemokraattinen Puolue</a> | 34 | 48 | 47–53 |47–54 |46–55 |44–57 |
+| <a href="#kansallinen-kokoomus">Kansallinen Kokoomus</a> | 37 | 42 | 39–47 |38–47 |38–48 |37–49 |
+| <a href="#suomen-keskusta">Suomen Keskusta</a> | 49 | 35 | 34–39 |33–40 |33–41 |31–42 |
+| <a href="#vihreä-liitto">Vihreä liitto</a> | 15 | 23 | 22–26 |21–27 |20–28 |19–29 |
+| <a href="#vasemmistoliitto">Vasemmistoliitto</a> | 12 | 19 | 17–21 |16–21 |16–22 |15–22 |
+| <a href="#perussuomalaiset">Perussuomalaiset</a> | 38 | 15 | 14–19 |14–20 |13–21 |12–21 |
+| <a href="#svenska-folkpartiet-i-finland">Svenska folkpartiet i Finland</a> | 9 | 8 | 7–10 |7–11 |7–11 |6–11 |
+| <a href="#kristillisdemokraatit">Kristillisdemokraatit</a> | 5 | 6 | 5–6 |4–6 |3–6 |2–6 |
 | <a href="#sininen-tulevaisuus">Sininen tulevaisuus</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Suomen Sosialidemokraattinen Puolue
@@ -57,19 +57,24 @@
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
-| 43 | 0% | 100% |  |
-| 44 | 0% | 100% |  |
-| 45 | 0% | 100% |  |
-| 46 | 0% | 100% |  |
-| 47 | 0% | 100% |  |
-| 48 | 0% | 100% |  |
-| 49 | 0% | 100% |  |
-| 50 | 0.7% | 100% |  |
-| 51 | 93% | 99.3% | Median |
-| 52 | 0% | 6% |  |
-| 53 | 0% | 6% |  |
-| 54 | 6% | 6% |  |
-| 55 | 0% | 0% |  |
+| 43 | 0.1% | 100% |  |
+| 44 | 0.6% | 99.9% |  |
+| 45 | 0.7% | 99.3% |  |
+| 46 | 3% | 98.6% |  |
+| 47 | 31% | 95% |  |
+| 48 | 17% | 64% | Median |
+| 49 | 11% | 47% |  |
+| 50 | 11% | 36% |  |
+| 51 | 7% | 25% |  |
+| 52 | 7% | 18% |  |
+| 53 | 5% | 11% |  |
+| 54 | 3% | 7% |  |
+| 55 | 2% | 4% |  |
+| 56 | 0.9% | 2% |  |
+| 57 | 0.5% | 0.8% |  |
+| 58 | 0.3% | 0.3% |  |
+| 59 | 0% | 0.1% |  |
+| 60 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus
 
@@ -79,17 +84,22 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0% | 100% | Last Result |
-| 38 | 0.7% | 100% |  |
-| 39 | 0.1% | 99.3% |  |
-| 40 | 0% | 99.3% |  |
-| 41 | 0% | 99.2% |  |
-| 42 | 0% | 99.2% |  |
-| 43 | 93% | 99.2% | Median |
-| 44 | 0% | 6% |  |
-| 45 | 0% | 6% |  |
-| 46 | 6% | 6% |  |
-| 47 | 0% | 0% |  |
+| 36 | 0% | 100% |  |
+| 37 | 2% | 99.9% | Last Result |
+| 38 | 7% | 98% |  |
+| 39 | 9% | 91% |  |
+| 40 | 10% | 81% |  |
+| 41 | 12% | 71% |  |
+| 42 | 14% | 58% | Median |
+| 43 | 9% | 45% |  |
+| 44 | 11% | 36% |  |
+| 45 | 10% | 24% |  |
+| 46 | 4% | 15% |  |
+| 47 | 8% | 11% |  |
+| 48 | 2% | 3% |  |
+| 49 | 1.4% | 2% |  |
+| 50 | 0.1% | 0.1% |  |
+| 51 | 0% | 0% |  |
 
 ### Suomen Keskusta
 
@@ -99,16 +109,21 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 34 | 0.1% | 100% |  |
-| 35 | 0% | 99.9% |  |
-| 36 | 99.2% | 99.9% | Median |
-| 37 | 0% | 0.7% |  |
-| 38 | 0% | 0.7% |  |
-| 39 | 0% | 0.7% |  |
-| 40 | 0% | 0.7% |  |
-| 41 | 0% | 0.7% |  |
-| 42 | 0.1% | 0.7% |  |
-| 43 | 0.7% | 0.7% |  |
+| 29 | 0% | 100% |  |
+| 30 | 0.2% | 99.9% |  |
+| 31 | 0.7% | 99.8% |  |
+| 32 | 2% | 99.1% |  |
+| 33 | 4% | 98% |  |
+| 34 | 42% | 94% |  |
+| 35 | 27% | 51% | Median |
+| 36 | 6% | 25% |  |
+| 37 | 3% | 18% |  |
+| 38 | 3% | 16% |  |
+| 39 | 3% | 12% |  |
+| 40 | 6% | 9% |  |
+| 41 | 3% | 3% |  |
+| 42 | 0.3% | 0.5% |  |
+| 43 | 0.2% | 0.2% |  |
 | 44 | 0% | 0% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |
@@ -127,13 +142,20 @@
 | 15 | 0% | 100% | Last Result |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 6% | 100% |  |
-| 21 | 0% | 94% |  |
-| 22 | 0.1% | 94% |  |
-| 23 | 94% | 94% | Median |
-| 24 | 0% | 0% |  |
+| 18 | 0.2% | 100% |  |
+| 19 | 2% | 99.8% |  |
+| 20 | 2% | 98% |  |
+| 21 | 3% | 96% |  |
+| 22 | 22% | 93% |  |
+| 23 | 23% | 71% | Median |
+| 24 | 19% | 48% |  |
+| 25 | 15% | 29% |  |
+| 26 | 6% | 15% |  |
+| 27 | 4% | 9% |  |
+| 28 | 4% | 4% |  |
+| 29 | 0.6% | 0.8% |  |
+| 30 | 0.2% | 0.2% |  |
+| 31 | 0% | 0% |  |
 
 ### Vasemmistoliitto
 
@@ -145,12 +167,17 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0% | 100% | Last Result |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 0.7% | 99.9% |  |
-| 17 | 6% | 99.3% |  |
-| 18 | 93% | 93% | Median |
-| 19 | 0% | 0% |  |
+| 14 | 0.3% | 100% |  |
+| 15 | 0.3% | 99.7% |  |
+| 16 | 7% | 99.4% |  |
+| 17 | 19% | 92% |  |
+| 18 | 20% | 73% |  |
+| 19 | 20% | 54% | Median |
+| 20 | 18% | 34% |  |
+| 21 | 13% | 16% |  |
+| 22 | 3% | 3% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 ### Perussuomalaiset
 
@@ -160,16 +187,17 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 94% | 100% | Median |
-| 14 | 6% | 6% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0.1% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
+| 12 | 0.9% | 100% |  |
+| 13 | 3% | 99.1% |  |
+| 14 | 37% | 96% |  |
+| 15 | 20% | 59% | Median |
+| 16 | 11% | 39% |  |
+| 17 | 6% | 29% |  |
+| 18 | 10% | 22% |  |
+| 19 | 5% | 12% |  |
+| 20 | 4% | 7% |  |
+| 21 | 3% | 3% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
@@ -195,10 +223,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 6% | 100% |  |
-| 9 | 93% | 94% | Last Result, Median |
-| 10 | 0.7% | 0.7% |  |
-| 11 | 0% | 0% |  |
+| 6 | 1.4% | 100% |  |
+| 7 | 16% | 98.6% |  |
+| 8 | 40% | 83% | Median |
+| 9 | 19% | 43% | Last Result |
+| 10 | 18% | 24% |  |
+| 11 | 6% | 6% |  |
+| 12 | 0% | 0% |  |
 
 ### Kristillisdemokraatit
 
@@ -208,10 +239,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 6% | 100% |  |
-| 5 | 0% | 94% | Last Result |
-| 6 | 94% | 94% | Median |
-| 7 | 0% | 0% |  |
+| 2 | 2% | 100% |  |
+| 3 | 2% | 98% |  |
+| 4 | 2% | 96% |  |
+| 5 | 8% | 94% | Last Result |
+| 6 | 86% | 86% | Median |
+| 7 | 0.3% | 0.3% |  |
+| 8 | 0% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 ### Sininen tulevaisuus
 
@@ -232,14 +267,14 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland – Kristillisdemokraatit | 112 | 150 | 100% | 150 | 149–150 | 149–150 | 143–150 |
-| Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Vihreä liitto – Svenska folkpartiet i Finland – Kristillisdemokraatit | 100 | 132 | 100% | 132 | 132 | 132 | 127–132 |
-| Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Svenska folkpartiet i Finland – Kristillisdemokraatit | 85 | 109 | 100% | 109 | 109–112 | 109–112 | 104–112 |
-| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland | 70 | 101 | 93% | 101 | 99–101 | 99–101 | 99–101 |
-| Kansallinen Kokoomus – Suomen Keskusta – Perussuomalaiset | 124 | 92 | 0% | 92 | 92–96 | 92–96 | 92–96 |
-| Kansallinen Kokoomus – Suomen Keskusta – Svenska folkpartiet i Finland – Kristillisdemokraatit | 100 | 94 | 0% | 94 | 94 | 94 | 94–97 |
-| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto | 61 | 92 | 0% | 92 | 91–92 | 91–92 | 89–92 |
-| Kansallinen Kokoomus – Suomen Keskusta – Sininen tulevaisuus | 86 | 79 | 0% | 79 | 79–82 | 79–82 | 79–82 |
+| Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland – Kristillisdemokraatit | 112 | 149 | 100% | 144–151 | 143–151 | 143–152 | 141–153 |
+| Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Vihreä liitto – Svenska folkpartiet i Finland – Kristillisdemokraatit | 100 | 130 | 100% | 126–133 | 125–133 | 124–134 | 123–135 |
+| Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Svenska folkpartiet i Finland – Kristillisdemokraatit | 85 | 106 | 97% | 102–109 | 101–110 | 100–110 | 99–112 |
+| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland | 70 | 100 | 42% | 96–104 | 95–106 | 93–106 | 93–108 |
+| Kansallinen Kokoomus – Suomen Keskusta – Perussuomalaiset | 124 | 93 | 0.5% | 89–97 | 88–98 | 87–100 | 86–100 |
+| Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto | 61 | 92 | 0.1% | 87–95 | 86–97 | 86–98 | 85–99 |
+| Kansallinen Kokoomus – Suomen Keskusta – Svenska folkpartiet i Finland – Kristillisdemokraatit | 100 | 92 | 0.1% | 88–96 | 86–97 | 86–97 | 84–98 |
+| Kansallinen Kokoomus – Suomen Keskusta – Sininen tulevaisuus | 86 | 78 | 0% | 74–81 | 73–82 | 72–83 | 71–85 |
 
 ### Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland – Kristillisdemokraatit
 
@@ -275,18 +310,23 @@
 | 137 | 0% | 100% |  |
 | 138 | 0% | 100% |  |
 | 139 | 0% | 100% |  |
-| 140 | 0% | 100% |  |
-| 141 | 0% | 100% |  |
-| 142 | 0.1% | 100% |  |
-| 143 | 0.7% | 99.9% |  |
-| 144 | 0% | 99.3% |  |
-| 145 | 0% | 99.3% |  |
-| 146 | 0% | 99.3% |  |
-| 147 | 0% | 99.3% |  |
-| 148 | 0% | 99.3% |  |
-| 149 | 6% | 99.3% |  |
-| 150 | 93% | 93% | Median |
-| 151 | 0% | 0% |  |
+| 140 | 0.1% | 100% |  |
+| 141 | 0.5% | 99.8% |  |
+| 142 | 2% | 99.3% |  |
+| 143 | 6% | 98% |  |
+| 144 | 3% | 92% |  |
+| 145 | 11% | 88% |  |
+| 146 | 7% | 77% | Median |
+| 147 | 6% | 70% |  |
+| 148 | 13% | 63% |  |
+| 149 | 10% | 51% |  |
+| 150 | 17% | 41% |  |
+| 151 | 20% | 23% |  |
+| 152 | 2% | 3% |  |
+| 153 | 1.3% | 2% |  |
+| 154 | 0.3% | 0.4% |  |
+| 155 | 0% | 0.1% |  |
+| 156 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Vihreä liitto – Svenska folkpartiet i Finland – Kristillisdemokraatit
 
@@ -315,19 +355,24 @@
 | 118 | 0% | 100% |  |
 | 119 | 0% | 100% |  |
 | 120 | 0% | 100% |  |
-| 121 | 0% | 100% |  |
-| 122 | 0% | 100% |  |
-| 123 | 0% | 100% |  |
-| 124 | 0% | 100% |  |
-| 125 | 0% | 100% |  |
-| 126 | 0% | 100% |  |
-| 127 | 0.7% | 100% |  |
-| 128 | 0% | 99.3% |  |
-| 129 | 0% | 99.2% |  |
-| 130 | 0% | 99.2% |  |
-| 131 | 0% | 99.2% |  |
-| 132 | 99.2% | 99.2% | Median |
-| 133 | 0% | 0% |  |
+| 121 | 0.1% | 100% |  |
+| 122 | 0.2% | 99.9% |  |
+| 123 | 2% | 99.6% |  |
+| 124 | 2% | 98% |  |
+| 125 | 6% | 96% |  |
+| 126 | 8% | 90% |  |
+| 127 | 9% | 83% | Median |
+| 128 | 8% | 73% |  |
+| 129 | 14% | 66% |  |
+| 130 | 13% | 52% |  |
+| 131 | 14% | 39% |  |
+| 132 | 14% | 25% |  |
+| 133 | 6% | 10% |  |
+| 134 | 3% | 4% |  |
+| 135 | 0.8% | 1.2% |  |
+| 136 | 0.3% | 0.4% |  |
+| 137 | 0.1% | 0.2% |  |
+| 138 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue – Kansallinen Kokoomus – Svenska folkpartiet i Finland – Kristillisdemokraatit
 
@@ -348,22 +393,25 @@
 | 95 | 0% | 100% |  |
 | 96 | 0% | 100% |  |
 | 97 | 0% | 100% |  |
-| 98 | 0% | 100% |  |
-| 99 | 0% | 100% |  |
-| 100 | 0% | 100% |  |
-| 101 | 0% | 100% | Majority |
-| 102 | 0% | 100% |  |
-| 103 | 0% | 100% |  |
-| 104 | 0.7% | 100% |  |
-| 105 | 0.1% | 99.3% |  |
-| 106 | 0% | 99.2% |  |
-| 107 | 0% | 99.2% |  |
-| 108 | 0% | 99.2% |  |
-| 109 | 93% | 99.2% | Median |
-| 110 | 0% | 6% |  |
-| 111 | 0% | 6% |  |
-| 112 | 6% | 6% |  |
-| 113 | 0% | 0% |  |
+| 98 | 0.2% | 100% |  |
+| 99 | 0.4% | 99.8% |  |
+| 100 | 2% | 99.4% |  |
+| 101 | 4% | 97% | Majority |
+| 102 | 8% | 94% |  |
+| 103 | 8% | 85% |  |
+| 104 | 11% | 77% | Median |
+| 105 | 6% | 67% |  |
+| 106 | 18% | 61% |  |
+| 107 | 17% | 43% |  |
+| 108 | 13% | 26% |  |
+| 109 | 5% | 12% |  |
+| 110 | 5% | 7% |  |
+| 111 | 1.0% | 2% |  |
+| 112 | 0.6% | 1.0% |  |
+| 113 | 0.2% | 0.5% |  |
+| 114 | 0.2% | 0.3% |  |
+| 115 | 0% | 0.1% |  |
+| 116 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto – Svenska folkpartiet i Finland
 
@@ -392,19 +440,26 @@
 | 88 | 0% | 100% |  |
 | 89 | 0% | 100% |  |
 | 90 | 0% | 100% |  |
-| 91 | 0% | 100% |  |
-| 92 | 0% | 100% |  |
-| 93 | 0% | 100% |  |
-| 94 | 0% | 100% |  |
-| 95 | 0% | 100% |  |
-| 96 | 0% | 100% |  |
-| 97 | 0.1% | 100% |  |
-| 98 | 0% | 99.9% |  |
-| 99 | 6% | 99.9% |  |
-| 100 | 0% | 93% |  |
-| 101 | 93% | 93% | Median, Majority |
-| 102 | 0% | 0.1% |  |
-| 103 | 0% | 0% |  |
+| 91 | 0.1% | 100% |  |
+| 92 | 0.1% | 99.9% |  |
+| 93 | 2% | 99.8% |  |
+| 94 | 2% | 97% |  |
+| 95 | 4% | 96% |  |
+| 96 | 4% | 92% |  |
+| 97 | 7% | 88% |  |
+| 98 | 11% | 81% | Median |
+| 99 | 16% | 69% |  |
+| 100 | 11% | 53% |  |
+| 101 | 13% | 42% | Majority |
+| 102 | 11% | 29% |  |
+| 103 | 5% | 19% |  |
+| 104 | 4% | 14% |  |
+| 105 | 4% | 9% |  |
+| 106 | 3% | 5% |  |
+| 107 | 1.1% | 2% |  |
+| 108 | 0.5% | 0.7% |  |
+| 109 | 0.2% | 0.2% |  |
+| 110 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus – Suomen Keskusta – Perussuomalaiset
 
@@ -412,18 +467,25 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 91 | 0% | 100% |  |
-| 92 | 93% | 99.9% | Median |
-| 93 | 0% | 7% |  |
-| 94 | 0.7% | 7% |  |
-| 95 | 0% | 6% |  |
-| 96 | 6% | 6% |  |
-| 97 | 0% | 0% |  |
-| 98 | 0% | 0% |  |
-| 99 | 0% | 0% |  |
-| 100 | 0% | 0% |  |
-| 101 | 0% | 0% | Majority |
-| 102 | 0% | 0% |  |
+| 84 | 0.1% | 100% |  |
+| 85 | 0.3% | 99.9% |  |
+| 86 | 0.8% | 99.5% |  |
+| 87 | 2% | 98.8% |  |
+| 88 | 4% | 97% |  |
+| 89 | 5% | 92% |  |
+| 90 | 5% | 88% |  |
+| 91 | 9% | 83% |  |
+| 92 | 13% | 74% | Median |
+| 93 | 12% | 61% |  |
+| 94 | 15% | 49% |  |
+| 95 | 13% | 34% |  |
+| 96 | 7% | 21% |  |
+| 97 | 5% | 14% |  |
+| 98 | 4% | 9% |  |
+| 99 | 2% | 5% |  |
+| 100 | 3% | 3% |  |
+| 101 | 0.3% | 0.5% | Majority |
+| 102 | 0.1% | 0.2% |  |
 | 103 | 0% | 0% |  |
 | 104 | 0% | 0% |  |
 | 105 | 0% | 0% |  |
@@ -446,22 +508,6 @@
 | 122 | 0% | 0% |  |
 | 123 | 0% | 0% |  |
 | 124 | 0% | 0% | Last Result |
-
-### Kansallinen Kokoomus – Suomen Keskusta – Svenska folkpartiet i Finland – Kristillisdemokraatit
-
-![Graph with seats probability mass function not yet produced](2018-11-12-KantarTNS-coalitions-seats-pmf-kok–kesk–sfp–kd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 92 | 0% | 100% |  |
-| 93 | 0% | 99.9% |  |
-| 94 | 99.2% | 99.9% | Median |
-| 95 | 0% | 0.7% |  |
-| 96 | 0.1% | 0.7% |  |
-| 97 | 0.7% | 0.7% |  |
-| 98 | 0% | 0% |  |
-| 99 | 0% | 0% |  |
-| 100 | 0% | 0% | Last Result |
 
 ### Suomen Sosialidemokraattinen Puolue – Vihreä liitto – Vasemmistoliitto
 
@@ -491,17 +537,53 @@
 | 80 | 0% | 100% |  |
 | 81 | 0% | 100% |  |
 | 82 | 0% | 100% |  |
-| 83 | 0% | 100% |  |
-| 84 | 0% | 100% |  |
-| 85 | 0% | 100% |  |
-| 86 | 0% | 100% |  |
-| 87 | 0% | 100% |  |
-| 88 | 0.1% | 100% |  |
-| 89 | 0.7% | 99.9% |  |
-| 90 | 0% | 99.3% |  |
-| 91 | 6% | 99.3% |  |
-| 92 | 93% | 93% | Median |
-| 93 | 0% | 0% |  |
+| 83 | 0.1% | 100% |  |
+| 84 | 0.1% | 99.9% |  |
+| 85 | 0.8% | 99.8% |  |
+| 86 | 5% | 98.9% |  |
+| 87 | 5% | 94% |  |
+| 88 | 10% | 89% |  |
+| 89 | 6% | 80% |  |
+| 90 | 15% | 74% | Median |
+| 91 | 6% | 59% |  |
+| 92 | 19% | 53% |  |
+| 93 | 9% | 34% |  |
+| 94 | 11% | 25% |  |
+| 95 | 5% | 14% |  |
+| 96 | 3% | 9% |  |
+| 97 | 3% | 7% |  |
+| 98 | 3% | 4% |  |
+| 99 | 0.7% | 1.1% |  |
+| 100 | 0.2% | 0.3% |  |
+| 101 | 0.1% | 0.1% | Majority |
+| 102 | 0% | 0% |  |
+
+### Kansallinen Kokoomus – Suomen Keskusta – Svenska folkpartiet i Finland – Kristillisdemokraatit
+
+![Graph with seats probability mass function not yet produced](2018-11-12-KantarTNS-coalitions-seats-pmf-kok–kesk–sfp–kd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 83 | 0.1% | 100% |  |
+| 84 | 0.5% | 99.9% |  |
+| 85 | 0.7% | 99.4% |  |
+| 86 | 4% | 98.7% |  |
+| 87 | 4% | 95% |  |
+| 88 | 5% | 91% |  |
+| 89 | 8% | 86% |  |
+| 90 | 7% | 77% |  |
+| 91 | 16% | 70% | Median |
+| 92 | 9% | 54% |  |
+| 93 | 15% | 45% |  |
+| 94 | 7% | 30% |  |
+| 95 | 9% | 22% |  |
+| 96 | 4% | 13% |  |
+| 97 | 7% | 9% |  |
+| 98 | 1.0% | 1.5% |  |
+| 99 | 0.3% | 0.5% |  |
+| 100 | 0.1% | 0.1% | Last Result |
+| 101 | 0% | 0.1% | Majority |
+| 102 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus – Suomen Keskusta – Sininen tulevaisuus
 
@@ -509,18 +591,25 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 75 | 0% | 100% |  |
-| 76 | 0% | 99.9% |  |
-| 77 | 0% | 99.9% |  |
-| 78 | 0% | 99.9% |  |
-| 79 | 93% | 99.9% | Median |
-| 80 | 0% | 7% |  |
-| 81 | 0.7% | 7% |  |
-| 82 | 6% | 6% |  |
-| 83 | 0% | 0% |  |
-| 84 | 0% | 0% |  |
-| 85 | 0% | 0% |  |
-| 86 | 0% | 0% | Last Result |
+| 69 | 0% | 100% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0.8% | 99.8% |  |
+| 72 | 2% | 98.9% |  |
+| 73 | 7% | 97% |  |
+| 74 | 8% | 90% |  |
+| 75 | 6% | 82% |  |
+| 76 | 13% | 76% |  |
+| 77 | 12% | 63% | Median |
+| 78 | 7% | 51% |  |
+| 79 | 15% | 44% |  |
+| 80 | 10% | 29% |  |
+| 81 | 10% | 19% |  |
+| 82 | 5% | 8% |  |
+| 83 | 1.3% | 3% |  |
+| 84 | 1.2% | 2% |  |
+| 85 | 0.4% | 0.5% |  |
+| 86 | 0.1% | 0.1% | Last Result |
+| 87 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -534,6 +623,6 @@
 ### Calculations
 
 + **Sample size:** 2314
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.10%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.02%
 
