@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Suomen eduskunta</title>
     <link>https://filipvanlaenen.github.io/finnish_polls</link>
     <description>All Registered Polls for the Suomen eduskunta</description>
-    <pubDate>Fri, 16 Nov 2018 13:31:40 +0100</pubDate>
+    <pubDate>Sat, 17 Nov 2018 15:19:46 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 15 October–12 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2018-11-12-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 14.0–16.9%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 18.1–21.4%&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 7.6–9.9%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 20.7–24.1%&lt;/li&gt;&lt;li&gt;Vihreä liitto: 11.2–13.9%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 8.5–11.0%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 3.6–5.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 3.3–4.9%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 0.8–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2018-11-12-KantarTNS.png"
+        length="259743"
+        type="image/png"/>
+      <pubDate>Sat, 17 Nov 2018 15:19:46 +0100</pubDate>
+      <dc:date>2018-11-17T15:19:46.679769+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 3 October–6 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2018-11-06-Taloustutkimus.html#seats</link>
@@ -879,6 +889,6 @@
       <pubDate>Thu, 08 Nov 2018 17:19:45 +0100</pubDate>
       <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
     </item>
-    <dc:date>2018-11-16T13:31:40.75029+01:00</dc:date>
+    <dc:date>2018-11-17T15:19:46.679769+01:00</dc:date>
   </channel>
 </rss>
