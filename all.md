@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | KESK | PS | KOK | SDP | VIHR | VAS | SFP | KD | SIN |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 19 April 2015 | General Election | 21.1% <br> 49 | 17.6% <br> 38 | 18.2% <br> 37 | 16.5% <br> 34 | 8.5% <br> 15 | 7.1% <br> 12 | 4.9% <br> 9 | 3.5% <br> 5 | 0.0% <br> 0 |
+| [14–23 November 2018](2018-11-23-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 13–17% <br> 30–41 | 7–10% <br> 12–21 | 18–22% <br> 37–49 | 19–24% <br> 43–56 | 12–16% <br> 22–31 | 8–11% <br> 14–22 | 3–6% <br> 6–11 | 3–5% <br> 1–6 | 2–3% <br> 0–1 |
 | [15 October–12 November 2018](2018-11-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 14–17% <br> 33–41 | 8–10% <br> 13–21 | 18–21% <br> 38–48 | 21–24% <br> 46–55 | 11–14% <br> 20–28 | 9–11% <br> 16–22 | 4–5% <br> 7–11 | 3–5% <br> 3–6 | 1–2% <br> 0 |
 | [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 15–18% <br> 34–42 | 9–11% <br> 15–22 | 19–22% <br> 38–49 | 21–25% <br> 46–56 | 10–13% <br> 18–24 | 8–11% <br> 14–21 | 3–5% <br> 6–10 | 3–4% <br> 1–6 | 1–2% <br> 0 |
 | [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 13–17% <br> 30–41 | 6–9% <br> 10–19 | 18–22% <br> 37–50 | 20–25% <br> 44–58 | 11–15% <br> 20–31 | 8–11% <br> 14–22 | 3–6% <br> 6–11 | 3–5% <br> 1–6 | 2–3% <br> 0–1 |
