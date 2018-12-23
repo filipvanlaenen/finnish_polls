@@ -10,7 +10,8 @@ Last result: **8.5%** (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.7% | 12.6–14.8% | 12.3–15.2% | 12.0–15.5% | 11.5–16.1% |
+| N/A | [Poll Average](average.html) | 13.5% | 12.2–14.6% | 11.9–15.0% | 11.5–15.3% | 10.9–15.9% |
+| [5–18 December 2018](2018-12-18-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 12.9% | 11.7–14.2% | 11.3–14.6% | 11.1–14.9% | 10.5–15.6% |
 | [13 November–12 December 2018](2018-12-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 13.4% | 12.5–14.4% | 12.3–14.6% | 12.1–14.9% | 11.7–15.4% |
 | [12 November–4 December 2018](2018-12-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 13.9% | 12.9–15.0% | 12.6–15.3% | 12.4–15.6% | 11.9–16.1% |
 | [14–23 November 2018](2018-11-23-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 13.6% | 12.4–14.9% | 12.0–15.3% | 11.7–15.7% | 11.2–16.3% |
@@ -52,14 +53,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% | Last Result |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.6% | 100% |  |
-| 11.5–12.5% | 9% | 99.3% |  |
-| 12.5–13.5% | 36% | 91% |  |
-| 13.5–14.5% | 39% | 55% | Median |
-| 14.5–15.5% | 14% | 16% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0.2% | 100% |  |
+| 10.5–11.5% | 3% | 99.8% |  |
+| 11.5–12.5% | 14% | 97% |  |
+| 12.5–13.5% | 37% | 84% | Median |
+| 13.5–14.5% | 35% | 46% |  |
+| 14.5–15.5% | 10% | 12% |  |
+| 15.5–16.5% | 1.2% | 1.2% |  |
+| 16.5–17.5% | 0% | 0% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -71,7 +72,8 @@ Last result: **15** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–29 | 23–31 | 22–31 | 21–32 |
+| N/A | [Poll Average](average.html) | 26 | 23–29 | 22–30 | 22–31 | 19–32 |
+| [5–18 December 2018](2018-12-18-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 25 | 22–28 | 22–28 | 20–30 | 18–31 |
 | [13 November–12 December 2018](2018-12-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 26 | 24–28 | 22–29 | 22–30 | 22–31 |
 | [12 November–4 December 2018](2018-12-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 28 | 24–30 | 23–31 | 23–32 | 22–32 |
 | [14–23 November 2018](2018-11-23-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 27 | 23–30 | 22–30 | 22–31 | 21–32 |
@@ -117,22 +119,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% | Last Result |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 0.1% | 99.9% |  |
-| 21 | 0.6% | 99.8% |  |
-| 22 | 4% | 99.3% |  |
-| 23 | 6% | 96% |  |
-| 24 | 9% | 90% |  |
-| 25 | 15% | 81% |  |
-| 26 | 13% | 67% |  |
-| 27 | 13% | 53% | Median |
-| 28 | 23% | 41% |  |
-| 29 | 9% | 18% |  |
-| 30 | 3% | 9% |  |
-| 31 | 4% | 6% |  |
-| 32 | 1.2% | 1.3% |  |
-| 33 | 0.1% | 0.1% |  |
-| 34 | 0% | 0% |  |
+| 18 | 0.2% | 100% |  |
+| 19 | 0.3% | 99.7% |  |
+| 20 | 0.3% | 99.4% |  |
+| 21 | 0.7% | 99.1% |  |
+| 22 | 6% | 98% |  |
+| 23 | 10% | 92% |  |
+| 24 | 7% | 82% |  |
+| 25 | 20% | 76% |  |
+| 26 | 14% | 55% | Median |
+| 27 | 11% | 41% |  |
+| 28 | 17% | 30% |  |
+| 29 | 7% | 13% |  |
+| 30 | 2% | 6% |  |
+| 31 | 4% | 5% |  |
+| 32 | 1.0% | 1.0% |  |
+| 33 | 0% | 0% |  |
 
 
