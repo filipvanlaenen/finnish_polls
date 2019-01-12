@@ -74,8 +74,8 @@ Last result: **34** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 45–49 | 44–51 | 43–54 | 41–54 |
-| [10 December 2018–8 January 2019](2019-01-08-Taloustutkimus.html) | Taloustutkimus <br> Yle | 49 | 47–49 | 47–54 | 47–54 | 47–54 |
+| N/A | [Poll Average](average.html) | 47 | 44–50 | 43–51 | 43–51 | 41–54 |
+| [10 December 2018–8 January 2019](2019-01-08-Taloustutkimus.html) | Taloustutkimus <br> Yle | 47 | 45–50 | 44–50 | 44–51 | 42–52 |
 | [5–18 December 2018](2018-12-18-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 46 | 43–50 | 43–50 | 41–52 | 39–54 |
 | [13 November–12 December 2018](2018-12-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 47 | 45–50 | 45–51 | 44–52 | 43–54 |
 | [12 November–4 December 2018](2018-12-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 47 | 45–51 | 45–52 | 45–53 | 42–54 |
@@ -127,19 +127,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0.1% | 99.9% |  |
 | 40 | 0.2% | 99.8% |  |
 | 41 | 0.7% | 99.6% |  |
-| 42 | 0.5% | 98.9% |  |
-| 43 | 3% | 98% |  |
-| 44 | 4% | 95% |  |
-| 45 | 11% | 91% |  |
-| 46 | 7% | 80% |  |
-| 47 | 29% | 73% | Median |
-| 48 | 7% | 43% |  |
-| 49 | 27% | 37% |  |
-| 50 | 3% | 9% |  |
-| 51 | 2% | 6% |  |
-| 52 | 1.0% | 4% |  |
-| 53 | 0.5% | 3% |  |
-| 54 | 2% | 3% |  |
+| 42 | 0.7% | 98.9% |  |
+| 43 | 4% | 98% |  |
+| 44 | 5% | 94% |  |
+| 45 | 18% | 89% |  |
+| 46 | 15% | 71% |  |
+| 47 | 25% | 57% | Median |
+| 48 | 9% | 32% |  |
+| 49 | 11% | 22% |  |
+| 50 | 5% | 11% |  |
+| 51 | 3% | 6% |  |
+| 52 | 1.3% | 2% |  |
+| 53 | 0.6% | 1.2% |  |
+| 54 | 0.3% | 0.6% |  |
 | 55 | 0.2% | 0.3% |  |
 | 56 | 0% | 0.1% |  |
 | 57 | 0% | 0.1% |  |
