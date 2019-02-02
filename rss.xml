@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Suomen eduskunta</title>
     <link>https://filipvanlaenen.github.io/finnish_polls</link>
     <description>All Registered Polls for the Suomen eduskunta</description>
-    <pubDate>Sat, 02 Feb 2019 19:27:24 +0100</pubDate>
+    <pubDate>Sat, 02 Feb 2019 20:30:20 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 14–28 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2019-01-28-Tietoykkönen.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 28–38 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 37–49 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 14–24 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 42–53 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto: 20–30 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 13–21 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 6–11 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 3–8 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-01-28-Tietoykkönen-seats.png"
+        length="235449"
+        type="image/png"/>
+      <pubDate>Sat, 02 Feb 2019 20:30:20 +0100</pubDate>
+      <dc:date>2019-02-02T20:30:20.609245+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 14–28 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2019-01-28-Tietoykkönen.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-01-28-Tietoykkönen-coalitions-seats.png"
+        length="235347"
+        type="image/png"/>
+      <pubDate>Sat, 02 Feb 2019 20:30:20 +0100</pubDate>
+      <dc:date>2019-02-02T20:30:20.609245+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 14–28 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2019-01-28-Tietoykkönen.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-01-28-Tietoykkönen.png"
         length="293609"
         type="image/png"/>
-      <pubDate>Sat, 02 Feb 2019 19:27:24 +0100</pubDate>
-      <dc:date>2019-02-02T19:27:24.577561+01:00</dc:date>
+      <pubDate>Sat, 02 Feb 2019 20:30:20 +0100</pubDate>
+      <dc:date>2019-02-02T20:30:20.609245+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 13 December 2018–11 January 2019 – Seat Projections for the Parties</title>
@@ -1099,6 +1119,6 @@
       <pubDate>Thu, 08 Nov 2018 17:19:45 +0100</pubDate>
       <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
     </item>
-    <dc:date>2019-02-02T19:27:24.577561+01:00</dc:date>
+    <dc:date>2019-02-02T20:30:20.609245+01:00</dc:date>
   </channel>
 </rss>
