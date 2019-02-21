@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/finnish_polls</id>
   <title>All Registered Polls for the Suomen eduskunta</title>
-  <updated>2019-02-09T12:53:49.035151+01:00</updated>
+  <updated>2019-02-21T21:33:18.461907+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta: 13.1–16.5%, 29–37 seats</li><li>Kansallinen Kokoomus: 16.8–20.5%, 36–45 seats</li><li>Perussuomalaiset: 10.0–13.0%, 21–28 seats</li><li>Suomen Sosialidemokraattinen Puolue: 18.9–22.8%, 43–52 seats</li><li>Vihreä liitto: 12.0–15.3%, 22–31 seats</li><li>Vasemmistoliitto: 7.4–10.1%, 13–19 seats</li><li>Svenska folkpartiet i Finland: 3.4–5.4%, 6–11 seats</li><li>Kristillisdemokraatit: 3.2–5.1%, 2–6 seats</li><li>Sininen tulevaisuus: 0.6–1.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/finnish_polls/2019-02-14-KantarTNS.html</id>
+    <link href="https://filipvanlaenen.github.io/finnish_polls/2019-02-14-KantarTNS.html"/>
+    <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 14 January–14 February 2019</title>
+    <updated>2019-02-21T21:33:18.461907+01:00</updated>
+    <dc:date>2019-02-21T21:33:18.461907+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta: 14.0–17.4%, 33–40 seats</li><li>Kansallinen Kokoomus: 15.7–19.2%, 31–40 seats</li><li>Perussuomalaiset: 10.6–13.6%, 22–29 seats</li><li>Suomen Sosialidemokraattinen Puolue: 18.3–22.1%, 40–49 seats</li><li>Vihreä liitto: 13.0–16.3%, 24–32 seats</li><li>Vasemmistoliitto: 7.4–10.0%, 13–19 seats</li><li>Svenska folkpartiet i Finland: 3.2–5.0%, 6–10 seats</li><li>Kristillisdemokraatit: 2.9–4.6%, 1–6 seats</li><li>Sininen tulevaisuus: 0.9–2.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/finnish_polls/2019-02-05-Taloustutkimus.html</id>
@@ -311,5 +319,5 @@
     <updated>2018-11-08T17:19:45.573879+01:00</updated>
     <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
   </entry>
-  <dc:date>2019-02-09T12:53:49.035151+01:00</dc:date>
+  <dc:date>2019-02-21T21:33:18.461907+01:00</dc:date>
 </feed>
