@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Suomen eduskunta</title>
     <link>https://filipvanlaenen.github.io/finnish_polls</link>
     <description>All Registered Polls for the Suomen eduskunta</description>
-    <pubDate>Sat, 09 Feb 2019 12:53:49 +0100</pubDate>
+    <pubDate>Thu, 21 Feb 2019 20:06:57 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 14 January–14 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2019-02-14-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 13.1–16.5%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 16.8–20.5%&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 10.0–13.0%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 18.9–22.8%&lt;/li&gt;&lt;li&gt;Vihreä liitto: 12.0–15.3%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 7.4–10.1%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 3.4–5.4%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 3.2–5.1%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 0.6–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-02-14-KantarTNS.png"
+        length="273494"
+        type="image/png"/>
+      <pubDate>Thu, 21 Feb 2019 20:06:57 +0100</pubDate>
+      <dc:date>2019-02-21T20:06:57.205349+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 14 January–5 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2019-02-05-Taloustutkimus.html#seats</link>
@@ -1149,6 +1159,6 @@
       <pubDate>Thu, 08 Nov 2018 17:19:45 +0100</pubDate>
       <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
     </item>
-    <dc:date>2019-02-09T12:53:49.035151+01:00</dc:date>
+    <dc:date>2019-02-21T20:06:57.205349+01:00</dc:date>
   </channel>
 </rss>
