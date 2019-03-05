@@ -80,7 +80,7 @@ Last result: **38** seats (General Election of 19 April 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 22–26 | 21–27 | 20–28 | 18–30 |
-| [18 February–3 March 2019](2019-03-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 23 | 21–25 | 20–27 | 18–28 | 18–30 |
+| [18 February–3 March 2019](2019-03-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 23 | 21–25 | 20–27 | 18–28 | 17–30 |
 | [14 January–14 February 2019](2019-02-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 23 | 22–25 | 21–27 | 21–28 | 19–29 |
 | [14 January–5 February 2019](2019-02-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 24 | 22–27 | 22–28 | 22–29 | 21–31 |
 | [14–28 January 2019](2019-01-28-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 20 | 16–22 | 15–23 | 14–24 | 14–25 |
@@ -129,21 +129,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0.1% | 99.9% |  |
 | 17 | 0.1% | 99.9% |  |
-| 18 | 1.0% | 99.8% |  |
-| 19 | 0.5% | 98.8% |  |
+| 18 | 0.8% | 99.8% |  |
+| 19 | 0.5% | 99.0% |  |
 | 20 | 2% | 98% |  |
-| 21 | 5% | 96% |  |
-| 22 | 15% | 91% |  |
-| 23 | 29% | 76% | Median |
-| 24 | 23% | 47% |  |
+| 21 | 5% | 97% |  |
+| 22 | 16% | 91% |  |
+| 23 | 30% | 76% | Median |
+| 24 | 21% | 46% |  |
 | 25 | 10% | 24% |  |
-| 26 | 6% | 15% |  |
+| 26 | 6% | 14% |  |
 | 27 | 5% | 8% |  |
 | 28 | 1.3% | 4% |  |
-| 29 | 2% | 2% |  |
-| 30 | 0.6% | 0.9% |  |
+| 29 | 1.5% | 2% |  |
+| 30 | 0.6% | 1.0% |  |
 | 31 | 0.3% | 0.4% |  |
 | 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |

@@ -79,7 +79,7 @@ Last result: **15** seats (General Election of 19 April 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28 | 23–31 | 22–32 | 22–32 | 21–33 |
-| [18 February–3 March 2019](2019-03-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 26 | 23–29 | 22–30 | 22–31 | 20–32 |
+| [18 February–3 March 2019](2019-03-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 26 | 22–29 | 22–30 | 22–31 | 19–32 |
 | [14 January–14 February 2019](2019-02-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 27 | 23–29 | 22–30 | 22–31 | 22–32 |
 | [14 January–5 February 2019](2019-02-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 29 | 27–32 | 26–32 | 24–32 | 23–33 |
 | [14–28 January 2019](2019-01-28-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 25 | 22–29 | 21–29 | 20–30 | 18–31 |
@@ -131,22 +131,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% | Last Result |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0.1% | 100% |  |
-| 20 | 0.1% | 99.9% |  |
-| 21 | 0.5% | 99.8% |  |
-| 22 | 4% | 99.2% |  |
-| 23 | 8% | 95% |  |
-| 24 | 7% | 87% |  |
-| 25 | 4% | 80% |  |
-| 26 | 11% | 76% |  |
-| 27 | 14% | 65% |  |
-| 28 | 21% | 51% | Median |
+| 18 | 0.1% | 100% |  |
+| 19 | 0.1% | 99.9% |  |
+| 20 | 0.1% | 99.8% |  |
+| 21 | 0.5% | 99.7% |  |
+| 22 | 5% | 99.2% |  |
+| 23 | 6% | 94% |  |
+| 24 | 8% | 88% |  |
+| 25 | 6% | 79% |  |
+| 26 | 9% | 73% |  |
+| 27 | 13% | 64% |  |
+| 28 | 22% | 51% | Median |
 | 29 | 8% | 30% |  |
-| 30 | 6% | 22% |  |
+| 30 | 5% | 21% |  |
 | 31 | 8% | 16% |  |
 | 32 | 8% | 8% |  |
-| 33 | 0.5% | 0.6% |  |
+| 33 | 0.4% | 0.5% |  |
 | 34 | 0.1% | 0.1% |  |
 | 35 | 0% | 0% |  |
 
