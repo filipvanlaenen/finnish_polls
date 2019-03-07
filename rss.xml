@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Suomen eduskunta</title>
     <link>https://filipvanlaenen.github.io/finnish_polls</link>
     <description>All Registered Polls for the Suomen eduskunta</description>
-    <pubDate>Thu, 07 Mar 2019 19:03:01 +0100</pubDate>
+    <pubDate>Thu, 07 Mar 2019 20:24:57 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 6 February–5 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2019-03-05-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 29–35 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 30–38 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 24–33 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 43–52 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto: 22–31 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 13–20 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 7–11 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 1–6 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-03-05-Taloustutkimus-seats.png"
+        length="220927"
+        type="image/png"/>
+      <pubDate>Thu, 07 Mar 2019 20:24:57 +0100</pubDate>
+      <dc:date>2019-03-07T20:24:57.956729+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 6 February–5 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2019-03-05-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-03-05-Taloustutkimus-coalitions-seats.png"
+        length="220323"
+        type="image/png"/>
+      <pubDate>Thu, 07 Mar 2019 20:24:57 +0100</pubDate>
+      <dc:date>2019-03-07T20:24:57.956729+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6 February–5 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2019-03-05-Taloustutkimus.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-03-05-Taloustutkimus.png"
         length="275624"
         type="image/png"/>
-      <pubDate>Thu, 07 Mar 2019 19:03:01 +0100</pubDate>
-      <dc:date>2019-03-07T19:03:01.12767+01:00</dc:date>
+      <pubDate>Thu, 07 Mar 2019 20:24:57 +0100</pubDate>
+      <dc:date>2019-03-07T20:24:57.956729+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 18 February–3 March 2019 – Seat Projections for the Parties</title>
@@ -1219,6 +1239,6 @@
       <pubDate>Thu, 08 Nov 2018 17:19:45 +0100</pubDate>
       <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
     </item>
-    <dc:date>2019-03-07T19:03:01.12767+01:00</dc:date>
+    <dc:date>2019-03-07T20:24:57.956729+01:00</dc:date>
   </channel>
 </rss>
