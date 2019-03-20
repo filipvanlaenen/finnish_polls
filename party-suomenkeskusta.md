@@ -10,7 +10,8 @@ Last result: **21.1%** (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.4% | 13.2–15.6% | 12.8–15.9% | 12.6–16.3% | 12.0–16.9% |
+| N/A | [Poll Average](average.html) | 14.2% | 13.1–15.3% | 12.8–15.6% | 12.6–16.0% | 12.0–16.6% |
+| [18 February–15 March 2019](2019-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 14.3% | 13.4–15.2% | 13.2–15.5% | 13.0–15.7% | 12.6–16.2% |
 | [6 February–5 March 2019](2019-03-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 14.1% | 13.1–15.2% | 12.8–15.5% | 12.6–15.8% | 12.1–16.4% |
 | [18 February–3 March 2019](2019-03-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 14.1% | 12.9–15.5% | 12.6–15.9% | 12.3–16.2% | 11.7–16.9% |
 | [14 January–14 February 2019](2019-02-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 14.7% | 13.6–15.9% | 13.4–16.2% | 13.1–16.5% | 12.6–17.1% |
@@ -62,12 +63,12 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
 | 11.5–12.5% | 2% | 99.9% |  |
-| 12.5–13.5% | 17% | 98% |  |
-| 13.5–14.5% | 39% | 81% | Median |
-| 14.5–15.5% | 31% | 42% |  |
-| 15.5–16.5% | 9% | 11% |  |
-| 16.5–17.5% | 1.1% | 1.2% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 19% | 98% |  |
+| 13.5–14.5% | 45% | 79% | Median |
+| 14.5–15.5% | 28% | 34% |  |
+| 15.5–16.5% | 6% | 6% |  |
+| 16.5–17.5% | 0.5% | 0.5% |  |
+| 17.5–18.5% | 0% | 0% |  |
 | 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
@@ -81,7 +82,8 @@ Last result: **49** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 30–35 | 29–36 | 28–36 | 26–38 |
+| N/A | [Poll Average](average.html) | 34 | 30–35 | 29–35 | 28–36 | 26–38 |
+| [18 February–15 March 2019](2019-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 34 | 30–34 | 29–35 | 29–35 | 28–36 |
 | [6 February–5 March 2019](2019-03-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 33 | 30–35 | 29–35 | 29–35 | 26–36 |
 | [18 February–3 March 2019](2019-03-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 33 | 29–35 | 29–36 | 27–37 | 25–39 |
 | [14 January–14 February 2019](2019-02-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 34 | 32–35 | 30–36 | 29–37 | 28–39 |
@@ -135,21 +137,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0.1% | 100% |  |
 | 25 | 0.3% | 99.9% |  |
 | 26 | 0.3% | 99.6% |  |
-| 27 | 0.6% | 99.3% |  |
-| 28 | 1.3% | 98.7% |  |
+| 27 | 0.7% | 99.3% |  |
+| 28 | 1.4% | 98.6% |  |
 | 29 | 6% | 97% |  |
-| 30 | 6% | 92% |  |
-| 31 | 7% | 86% |  |
-| 32 | 10% | 79% |  |
-| 33 | 13% | 69% |  |
-| 34 | 39% | 56% | Median |
-| 35 | 11% | 16% |  |
-| 36 | 3% | 5% |  |
-| 37 | 1.2% | 2% |  |
-| 38 | 0.8% | 1.2% |  |
-| 39 | 0.2% | 0.4% |  |
-| 40 | 0.1% | 0.2% |  |
-| 41 | 0% | 0.1% |  |
+| 30 | 7% | 91% |  |
+| 31 | 7% | 84% |  |
+| 32 | 10% | 77% |  |
+| 33 | 13% | 67% |  |
+| 34 | 43% | 53% | Median |
+| 35 | 8% | 11% |  |
+| 36 | 2% | 3% |  |
+| 37 | 0.5% | 1.2% |  |
+| 38 | 0.5% | 0.7% |  |
+| 39 | 0.1% | 0.2% |  |
+| 40 | 0.1% | 0.1% |  |
+| 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |
