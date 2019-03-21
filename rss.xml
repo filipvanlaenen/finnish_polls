@@ -8,36 +8,16 @@
     <title>All Registered Polls for the Suomen eduskunta</title>
     <link>https://filipvanlaenen.github.io/finnish_polls</link>
     <description>All Registered Polls for the Suomen eduskunta</description>
-    <pubDate>Wed, 20 Mar 2019 19:42:21 +0100</pubDate>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 18 February–15 March 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/finnish_polls/2019-03-15-KantarTNS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 29–35 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 35–42 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 21–25 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 43–51 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto: 24–31 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 14–20 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 7–10 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 5–6 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-03-15-KantarTNS-seats.png"
-        length="197836"
-        type="image/png"/>
-      <pubDate>Wed, 20 Mar 2019 19:42:21 +0100</pubDate>
-      <dc:date>2019-03-20T19:42:21.666805+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 18 February–15 March 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/finnish_polls/2019-03-15-KantarTNS.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-03-15-KantarTNS-coalitions-seats.png"
-        length="198235"
-        type="image/png"/>
-      <pubDate>Wed, 20 Mar 2019 19:42:21 +0100</pubDate>
-      <dc:date>2019-03-20T19:42:21.666805+01:00</dc:date>
-    </item>
+    <pubDate>Thu, 21 Mar 2019 19:38:05 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 18 February–15 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2019-03-15-KantarTNS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 13.0–15.7%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 16.6–19.7%&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 9.9–12.4%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 19.4–22.6%&lt;/li&gt;&lt;li&gt;Vihreä liitto: 12.7–15.4%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 7.8–10.1%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 3.7–5.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 3.5–5.1%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 0.8–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 12.7–16.1%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 16.3–20.0%&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 9.7–12.7%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 19.1–23.0%&lt;/li&gt;&lt;li&gt;Vihreä liitto: 12.4–15.8%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 7.6–10.3%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 3.5–5.5%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 3.3–5.3%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 0.8–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-03-15-KantarTNS.png"
-        length="266880"
+        length="280017"
         type="image/png"/>
-      <pubDate>Wed, 20 Mar 2019 19:42:21 +0100</pubDate>
-      <dc:date>2019-03-20T19:42:21.666805+01:00</dc:date>
+      <pubDate>Thu, 21 Mar 2019 19:38:05 +0100</pubDate>
+      <dc:date>2019-03-21T19:38:05.237642+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6 February–5 March 2019 – Seat Projections for the Parties</title>
@@ -1269,6 +1249,6 @@
       <pubDate>Thu, 08 Nov 2018 17:19:45 +0100</pubDate>
       <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
     </item>
-    <dc:date>2019-03-20T19:42:21.666805+01:00</dc:date>
+    <dc:date>2019-03-21T19:38:05.237642+01:00</dc:date>
   </channel>
 </rss>
