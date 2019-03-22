@@ -81,8 +81,8 @@ Last result: **38** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–30 | 20–31 | 20–32 | 18–34 |
-| [18 February–15 March 2019](2019-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 23 | 20–24 | 20–25 | 19–26 | 19–28 |
+| N/A | [Poll Average](average.html) | 24 | 21–30 | 21–31 | 20–32 | 18–34 |
+| [18 February–15 March 2019](2019-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 23 | 21–25 | 21–26 | 19–26 | 17–28 |
 | [6 February–5 March 2019](2019-03-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 29 | 25–31 | 24–32 | 24–33 | 23–34 |
 | [18 February–3 March 2019](2019-03-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 23 | 21–25 | 20–27 | 18–28 | 17–30 |
 | [14 January–14 February 2019](2019-02-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 23 | 22–25 | 21–27 | 21–28 | 19–29 |
@@ -133,18 +133,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0% | 100% |  |
+| 15 | 0.1% | 100% |  |
 | 16 | 0.1% | 99.9% |  |
-| 17 | 0.1% | 99.8% |  |
-| 18 | 0.8% | 99.7% |  |
-| 19 | 1.1% | 98.9% |  |
-| 20 | 5% | 98% |  |
-| 21 | 7% | 93% |  |
-| 22 | 12% | 87% |  |
-| 23 | 27% | 75% | Median |
-| 24 | 10% | 48% |  |
+| 17 | 0.2% | 99.8% |  |
+| 18 | 0.9% | 99.6% |  |
+| 19 | 0.9% | 98.7% |  |
+| 20 | 2% | 98% |  |
+| 21 | 8% | 96% |  |
+| 22 | 12% | 88% |  |
+| 23 | 23% | 76% |  |
+| 24 | 14% | 53% | Median |
 | 25 | 8% | 39% |  |
-| 26 | 4% | 30% |  |
+| 26 | 5% | 32% |  |
 | 27 | 3% | 26% |  |
 | 28 | 4% | 23% |  |
 | 29 | 5% | 19% |  |
