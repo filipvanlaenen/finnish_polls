@@ -10,7 +10,8 @@ Last result: **16.5%** (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 19.9–22.6% | 19.5–23.0% | 19.2–23.4% | 18.6–24.1% |
+| N/A | [Poll Average](average.html) | 20.8% | 19.3–22.4% | 18.8–22.8% | 18.4–23.3% | 17.7–24.0% |
+| [6–26 March 2019](2019-03-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20.1% | 18.7–21.6% | 18.2–22.0% | 17.9–22.4% | 17.3–23.2% |
 | [18 February–15 March 2019](2019-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 21.0% | 19.7–22.3% | 19.4–22.7% | 19.1–23.0% | 18.5–23.7% |
 | [6 February–5 March 2019](2019-03-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 21.3% | 20.1–22.6% | 19.8–23.0% | 19.5–23.3% | 18.9–23.9% |
 | [18 February–3 March 2019](2019-03-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 21.3% | 19.8–22.9% | 19.4–23.3% | 19.1–23.7% | 18.4–24.5% |
@@ -60,15 +61,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 16.5–17.5% | 0% | 100% | Last Result |
-| 17.5–18.5% | 0.5% | 100% |  |
-| 18.5–19.5% | 5% | 99.5% |  |
-| 19.5–20.5% | 21% | 95% |  |
-| 20.5–21.5% | 36% | 74% | Median |
-| 21.5–22.5% | 27% | 38% |  |
-| 22.5–23.5% | 9% | 11% |  |
-| 23.5–24.5% | 2% | 2% |  |
-| 24.5–25.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.3% | 100% | Last Result |
+| 17.5–18.5% | 3% | 99.6% |  |
+| 18.5–19.5% | 12% | 97% |  |
+| 19.5–20.5% | 26% | 85% |  |
+| 20.5–21.5% | 32% | 59% | Median |
+| 21.5–22.5% | 20% | 28% |  |
+| 22.5–23.5% | 6% | 8% |  |
+| 23.5–24.5% | 1.3% | 1.4% |  |
+| 24.5–25.5% | 0.1% | 0.2% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
 
@@ -80,7 +82,8 @@ Last result: **34** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 44–51 | 44–52 | 43–52 | 42–55 |
+| N/A | [Poll Average](average.html) | 46 | 43–50 | 41–52 | 41–52 | 39–55 |
+| [6–26 March 2019](2019-03-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 45 | 41–48 | 41–49 | 40–50 | 38–51 |
 | [18 February–15 March 2019](2019-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 46 | 44–50 | 43–51 | 43–52 | 42–53 |
 | [6 February–5 March 2019](2019-03-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 47 | 45–50 | 44–52 | 43–52 | 41–53 |
 | [18 February–3 March 2019](2019-03-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 48 | 45–52 | 44–52 | 43–54 | 42–56 |
@@ -134,25 +137,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 34 | 0% | 100% | Last Result |
 | 35 | 0% | 100% |  |
-| 36 | 0% | 100% |  |
-| 37 | 0% | 100% |  |
-| 38 | 0% | 100% |  |
-| 39 | 0% | 100% |  |
-| 40 | 0.1% | 99.9% |  |
-| 41 | 0.4% | 99.9% |  |
-| 42 | 0.8% | 99.5% |  |
-| 43 | 4% | 98.7% |  |
-| 44 | 6% | 95% |  |
-| 45 | 13% | 89% |  |
-| 46 | 20% | 77% |  |
-| 47 | 15% | 57% | Median |
-| 48 | 13% | 41% |  |
-| 49 | 9% | 28% |  |
-| 50 | 8% | 19% |  |
-| 51 | 4% | 11% |  |
-| 52 | 5% | 7% |  |
-| 53 | 1.4% | 2% |  |
-| 54 | 0.4% | 1.1% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0% | 99.9% |  |
+| 38 | 0.2% | 99.9% |  |
+| 39 | 0.4% | 99.7% |  |
+| 40 | 0.8% | 99.2% |  |
+| 41 | 5% | 98% |  |
+| 42 | 3% | 93% |  |
+| 43 | 7% | 90% |  |
+| 44 | 7% | 83% |  |
+| 45 | 15% | 77% |  |
+| 46 | 17% | 62% | Median |
+| 47 | 14% | 45% |  |
+| 48 | 11% | 31% |  |
+| 49 | 6% | 20% |  |
+| 50 | 6% | 14% |  |
+| 51 | 3% | 8% |  |
+| 52 | 3% | 5% |  |
+| 53 | 1.0% | 2% |  |
+| 54 | 0.4% | 1.0% |  |
 | 55 | 0.4% | 0.6% |  |
 | 56 | 0.1% | 0.2% |  |
 | 57 | 0.1% | 0.1% |  |
