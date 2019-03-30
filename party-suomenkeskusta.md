@@ -83,8 +83,8 @@ Last result: **49** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 29–35 | 29–35 | 28–36 | 25–38 |
-| [6–26 March 2019](2019-03-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 33 | 29–35 | 29–35 | 28–36 | 26–38 |
+| N/A | [Poll Average](average.html) | 33 | 29–35 | 28–35 | 28–36 | 25–38 |
+| [6–26 March 2019](2019-03-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 33 | 29–35 | 28–35 | 28–36 | 26–38 |
 | [18 February–15 March 2019](2019-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 34 | 30–35 | 28–35 | 28–36 | 26–38 |
 | [6 February–5 March 2019](2019-03-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 33 | 30–35 | 29–35 | 29–35 | 26–36 |
 | [18 February–3 March 2019](2019-03-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 33 | 29–35 | 29–36 | 27–37 | 25–39 |
@@ -136,22 +136,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.1% | 100% |  |
+| 23 | 0% | 100% |  |
 | 24 | 0.1% | 99.9% |  |
 | 25 | 0.4% | 99.9% |  |
 | 26 | 0.6% | 99.5% |  |
 | 27 | 1.0% | 98.8% |  |
 | 28 | 3% | 98% |  |
-| 29 | 7% | 95% |  |
+| 29 | 6% | 95% |  |
 | 30 | 5% | 88% |  |
-| 31 | 5% | 83% |  |
-| 32 | 9% | 78% |  |
-| 33 | 19% | 70% |  |
-| 34 | 32% | 50% | Median |
-| 35 | 13% | 18% |  |
+| 31 | 5% | 84% |  |
+| 32 | 9% | 79% |  |
+| 33 | 21% | 70% | Median |
+| 34 | 34% | 50% |  |
+| 35 | 11% | 15% |  |
 | 36 | 2% | 4% |  |
 | 37 | 0.9% | 2% |  |
-| 38 | 0.8% | 1.1% |  |
+| 38 | 0.7% | 1.1% |  |
 | 39 | 0.2% | 0.3% |  |
 | 40 | 0.1% | 0.2% |  |
 | 41 | 0% | 0.1% |  |
