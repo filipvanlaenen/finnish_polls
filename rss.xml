@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Suomen eduskunta</title>
     <link>https://filipvanlaenen.github.io/finnish_polls</link>
     <description>All Registered Polls for the Suomen eduskunta</description>
-    <pubDate>Tue, 09 Apr 2019 07:53:33 +0200</pubDate>
+    <pubDate>Tue, 09 Apr 2019 08:42:49 +0200</pubDate>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 25 March–3 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2019-04-03-Tietoykkönen.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-04-03-Tietoykkönen.png"
         length="296826"
         type="image/png"/>
-      <pubDate>Tue, 09 Apr 2019 07:53:33 +0200</pubDate>
-      <dc:date>2019-04-09T07:53:33.457757+02:00</dc:date>
+      <pubDate>Tue, 09 Apr 2019 08:42:49 +0200</pubDate>
+      <dc:date>2019-04-09T08:42:49.510574+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6–26 March 2019 – Seat Projections for the Parties</title>
@@ -1309,6 +1309,6 @@
       <pubDate>Thu, 08 Nov 2018 17:19:45 +0100</pubDate>
       <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
     </item>
-    <dc:date>2019-04-09T07:53:33.457757+02:00</dc:date>
+    <dc:date>2019-04-09T08:42:49.510574+02:00</dc:date>
   </channel>
 </rss>
