@@ -84,8 +84,8 @@ Last result: **15** seats (General Election of 19 April 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 21–28 | 20–30 | 19–30 | 18–32 |
-| [3–7 April 2019](2019-04-07-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 22 | 20–24 | 19–25 | 18–26 | 18–28 |
-| [25 March–3 April 2019](2019-04-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 25 | 22–30 | 22–30 | 21–31 | 20–32 |
+| [3–7 April 2019](2019-04-07-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 22 | 19–24 | 19–25 | 18–26 | 18–28 |
+| [25 March–3 April 2019](2019-04-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 26 | 22–30 | 22–31 | 21–31 | 20–32 |
 | [6–26 March 2019](2019-03-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 24 | 22–28 | 21–29 | 21–30 | 19–31 |
 | [18 February–15 March 2019](2019-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 28 | 25–30 | 24–31 | 22–32 | 22–33 |
 | [6 February–5 March 2019](2019-03-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 26 | 23–29 | 23–30 | 22–31 | 22–32 |
@@ -141,20 +141,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% | Last Result |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 1.3% | 100% |  |
-| 19 | 2% | 98.6% |  |
-| 20 | 3% | 97% |  |
-| 21 | 8% | 94% |  |
-| 22 | 14% | 86% |  |
-| 23 | 19% | 71% |  |
-| 24 | 11% | 53% | Median |
-| 25 | 12% | 41% |  |
-| 26 | 6% | 29% |  |
-| 27 | 7% | 23% |  |
-| 28 | 7% | 16% |  |
+| 18 | 0.9% | 100% |  |
+| 19 | 3% | 99.1% |  |
+| 20 | 3% | 96% |  |
+| 21 | 10% | 94% |  |
+| 22 | 14% | 84% |  |
+| 23 | 15% | 70% |  |
+| 24 | 13% | 54% | Median |
+| 25 | 11% | 42% |  |
+| 26 | 6% | 31% |  |
+| 27 | 7% | 24% |  |
+| 28 | 9% | 17% |  |
 | 29 | 3% | 9% |  |
-| 30 | 4% | 6% |  |
-| 31 | 1.1% | 2% |  |
+| 30 | 3% | 5% |  |
+| 31 | 1.4% | 2% |  |
 | 32 | 0.8% | 0.8% |  |
 | 33 | 0% | 0% |  |
 

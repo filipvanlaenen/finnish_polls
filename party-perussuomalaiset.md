@@ -83,8 +83,8 @@ Last result: **38** seats (General Election of 19 April 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 26–35 | 26–35 | 25–36 | 23–37 |
-| [3–7 April 2019](2019-04-07-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 33 | 30–35 | 29–35 | 29–35 | 27–37 |
+| N/A | [Poll Average](average.html) | 32 | 27–35 | 26–35 | 25–36 | 23–37 |
+| [3–7 April 2019](2019-04-07-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 33 | 31–35 | 29–35 | 29–35 | 27–37 |
 | [25 March–3 April 2019](2019-04-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 29 | 25–33 | 25–33 | 24–34 | 22–35 |
 | [6–26 March 2019](2019-03-26-Taloustutkimus.html) | Taloustutkimus <br> Yle | 34 | 30–35 | 29–36 | 28–37 | 25–38 |
 | [18 February–15 March 2019](2019-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 23 | 21–25 | 21–26 | 19–26 | 17–28 |
@@ -139,21 +139,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 22 | 0.3% | 100% |  |
-| 23 | 0.5% | 99.7% |  |
+| 23 | 0.4% | 99.7% |  |
 | 24 | 0.9% | 99.2% |  |
-| 25 | 2% | 98% |  |
-| 26 | 6% | 96% |  |
+| 25 | 3% | 98% |  |
+| 26 | 5% | 95% |  |
 | 27 | 2% | 90% |  |
 | 28 | 5% | 88% |  |
 | 29 | 6% | 83% |  |
-| 30 | 6% | 77% |  |
-| 31 | 14% | 72% |  |
-| 32 | 12% | 58% | Median |
-| 33 | 17% | 46% |  |
-| 34 | 17% | 29% |  |
-| 35 | 9% | 13% |  |
+| 30 | 5% | 78% |  |
+| 31 | 13% | 72% |  |
+| 32 | 12% | 59% | Median |
+| 33 | 17% | 47% |  |
+| 34 | 18% | 29% |  |
+| 35 | 8% | 12% |  |
 | 36 | 1.4% | 3% |  |
-| 37 | 1.4% | 2% |  |
+| 37 | 1.3% | 2% |  |
 | 38 | 0.4% | 0.5% | Last Result |
 | 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |
