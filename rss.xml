@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Suomen eduskunta</title>
     <link>https://filipvanlaenen.github.io/finnish_polls</link>
     <description>All Registered Polls for the Suomen eduskunta</description>
-    <pubDate>Sat, 13 Apr 2019 14:29:45 +0200</pubDate>
+    <pubDate>Sat, 13 Apr 2019 16:28:30 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 1–9 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2019-04-09-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta: 29–37 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus: 27–38 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset: 31–41 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue: 36–48 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto: 19–28 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto: 13–19 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland: 7–13 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit: 4–7 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-04-09-Taloustutkimus-seats.png"
+        length="231873"
+        type="image/png"/>
+      <pubDate>Sat, 13 Apr 2019 16:28:30 +0200</pubDate>
+      <dc:date>2019-04-13T16:28:30.813154+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 1–9 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_polls/2019-04-09-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-04-09-Taloustutkimus-coalitions-seats.png"
+        length="236481"
+        type="image/png"/>
+      <pubDate>Sat, 13 Apr 2019 16:28:30 +0200</pubDate>
+      <dc:date>2019-04-13T16:28:30.813154+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 1–9 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_polls/2019-04-09-Taloustutkimus.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_polls/2019-04-09-Taloustutkimus.png"
         length="291920"
         type="image/png"/>
-      <pubDate>Sat, 13 Apr 2019 14:29:45 +0200</pubDate>
-      <dc:date>2019-04-13T14:29:45.52048+02:00</dc:date>
+      <pubDate>Sat, 13 Apr 2019 16:28:30 +0200</pubDate>
+      <dc:date>2019-04-13T16:28:30.813154+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 3–7 April 2019 – Seat Projections for the Parties</title>
@@ -1369,6 +1389,6 @@
       <pubDate>Thu, 08 Nov 2018 17:19:45 +0100</pubDate>
       <dc:date>2018-11-08T17:19:45.573879+01:00</dc:date>
     </item>
-    <dc:date>2019-04-13T14:29:45.52048+02:00</dc:date>
+    <dc:date>2019-04-13T16:28:30.813154+02:00</dc:date>
   </channel>
 </rss>
